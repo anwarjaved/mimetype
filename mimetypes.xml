@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mimeTypes>
+  <mimeType extension=".*" type="application/octet-stream" />
+  <mimeType extension=".0.123" type="application/vnd.lotus-1-2-3" description="Lotus 1-2-3" />
+  <mimeType extension=".123" type="application/vnd.lotus-1-2-3" />
+  <mimeType extension=".323" type="text/h323" />
+  <mimeType extension=".3dmf" type="x-world/x-3dmf" />
+  <mimeType extension=".3dml" type="text/vnd.in3d.3dml" description="In3D - 3DML" />
+  <mimeType extension=".3g2" type="video/3gpp2" description="3GP2" />
+  <mimeType extension=".3gp" type="video/3gpp" description="3GP" />
+  <mimeType extension=".7z" type="application/x-7z-compressed" description="7-Zip" />
+  <mimeType extension=".a" type="application/octet-stream" />
+  <mimeType extension=".aab" type="application/x-authorware-bin" description="Adobe (Macropedia) Authorware - Binary File" />
+  <mimeType extension=".aac" type="audio/x-aac" description="Advanced Audio Coding (AAC)" />
+  <mimeType extension=".aam" type="application/x-authorware-map" description="Adobe (Macropedia) Authorware - Map" />
+  <mimeType extension=".aas" type="application/x-authorware-seg" description="Adobe (Macropedia) Authorware - Segment File" />
+  <mimeType extension=".abc" type="text/vnd.abc" />
+  <mimeType extension=".abw" type="application/x-abiword" description="AbiWord" />
+  <mimeType extension=".ac" type="application/pkix-attr-cert" description="Attribute Certificate" />
+  <mimeType extension=".acc" type="application/vnd.americandynamics.acc" description="Active Content Compression" />
+  <mimeType extension=".ace" type="application/x-ace-compressed" description="Ace Archive" />
+  <mimeType extension=".acgi" type="text/html" />
+  <mimeType extension=".acu" type="application/vnd.acucobol" description="ACU Cobol" />
+  <mimeType extension=".acutc" type="application/vnd.acucorp" />
+  <mimeType extension=".acx" type="application/internet-property-stream" />
+  <mimeType extension=".adp" type="audio/adpcm" description="Adaptive differential pulse-code modulation" />
+  <mimeType extension=".aep" type="application/vnd.audiograph" description="Audiograph" />
+  <mimeType extension=".afl" type="video/animaflex" />
+  <mimeType extension=".afm" type="application/x-font-type1" />
+  <mimeType extension=".afp" type="application/vnd.ibm.modcap" description="MO:DCA-P" />
+  <mimeType extension=".ahead" type="application/vnd.ahead.space" description="Ahead AIR Application" />
+  <mimeType extension=".ai" type="application/postscript" description="PostScript" />
+  <mimeType extension=".aif" type="audio/x-aiff" description="Audio Interchange File Format" />
+  <mimeType extension=".aifc" type="audio/aiff" />
+  <mimeType extension=".aiff" type="audio/aiff" />
+  <mimeType extension=".aim" type="application/x-aim" />
+  <mimeType extension=".aip" type="text/x-audiosoft-intra" />
+  <mimeType extension=".air" type="application/vnd.adobe.air-application-installer-package+zip" description="Adobe AIR Application" />
+  <mimeType extension=".ait" type="application/vnd.dvb.ait" description="Digital Video Broadcasting" />
+  <mimeType extension=".ami" type="application/vnd.amiga.ami" description="AmigaDE" />
+  <mimeType extension=".ani" type="application/x-navi-animation" />
+  <mimeType extension=".aos" type="application/x-nokia-9000-communicator-add-on-software" />
+  <mimeType extension=".apk" type="application/vnd.android.package-archive" description="Android Package Archive" />
+  <mimeType extension=".application" type="application/x-ms-application" description="Microsoft ClickOnce" />
+  <mimeType extension=".apr" type="application/vnd.lotus-approach" description="Lotus Approach" />
+  <mimeType extension=".aps" type="application/mime" />
+  <mimeType extension=".arc" type="application/octet-stream" />
+  <mimeType extension=".arj" type="application/arj" />
+  <mimeType extension=".art" type="image/x-jg" />
+  <mimeType extension=".asc" type="application/pgp-signature" />
+  <mimeType extension=".asf" type="video/x-ms-asf" description="Microsoft Advanced Systems Format (ASF)" />
+  <mimeType extension=".asm" type="text/x-asm" />
+  <mimeType extension=".aso" type="application/vnd.accpac.simply.aso" description="Simply Accounting" />
+  <mimeType extension=".asp" type="text/asp" />
+  <mimeType extension=".asr" type="video/x-ms-asf" />
+  <mimeType extension=".asx" type="video/x-ms-asf" />
+  <mimeType extension=".atc" type="application/vnd.acucorp" description="ACU Cobol" />
+  <mimeType extension=".atom" type="application/atom+xml" />
+  <mimeType extension=".atom, .xml" type="application/atom+xml" description="Atom Syndication Format" />
+  <mimeType extension=".atomcat" type="application/atomcat+xml" description="Atom Publishing Protocol" />
+  <mimeType extension=".atomsvc" type="application/atomsvc+xml" description="Atom Publishing Protocol Service Document" />
+  <mimeType extension=".atx" type="application/vnd.antix.game-component" description="Antix Game Player" />
+  <mimeType extension=".au" type="audio/basic" description="Sun Audio - Au file format" />
+  <mimeType extension=".avi" type="video/x-msvideo" description="Audio Video Interleave (AVI)" />
+  <mimeType extension=".avs" type="video/avs-video" />
+  <mimeType extension=".aw" type="application/applixware" description="Applixware" />
+  <mimeType extension=".axs" type="application/olescript" />
+  <mimeType extension=".azf" type="application/vnd.airzip.filesecure.azf" description="AirZip FileSECURE" />
+  <mimeType extension=".azs" type="application/vnd.airzip.filesecure.azs" description="AirZip FileSECURE" />
+  <mimeType extension=".azw" type="application/vnd.amazon.ebook" description="Amazon Kindle eBook format" />
+  <mimeType extension=".bas" type="text/plain" />
+  <mimeType extension=".bat" type="application/x-msdownload" />
+  <mimeType extension=".bcpio" type="application/x-bcpio" description="Binary CPIO Archive" />
+  <mimeType extension=".bdf" type="application/x-font-bdf" description="Glyph Bitmap Distribution Format" />
+  <mimeType extension=".bdm" type="application/vnd.syncml.dm+wbxml" description="SyncML - Device Management" />
+  <mimeType extension=".bed" type="application/vnd.realvnc.bed" description="RealVNC" />
+  <mimeType extension=".bh2" type="application/vnd.fujitsu.oasysprs" description="Fujitsu Oasys" />
+  <mimeType extension=".bin" type="application/octet-stream" description="Binary Data" />
+  <mimeType extension=".bm" type="image/bmp" />
+  <mimeType extension=".bmi" type="application/vnd.bmi" description="BMI Drawing Data Interchange" />
+  <mimeType extension=".bmp" type="image/bmp" description="Bitmap Image File" />
+  <mimeType extension=".boo" type="application/book" />
+  <mimeType extension=".book" type="application/vnd.framemaker" />
+  <mimeType extension=".box" type="application/vnd.previewsystems.box" description="Preview Systems ZipLock/VBox" />
+  <mimeType extension=".boz" type="application/x-bzip2" />
+  <mimeType extension=".bpk" type="application/octet-stream" />
+  <mimeType extension=".bsh" type="application/x-bsh" />
+  <mimeType extension=".btif" type="image/prs.btif" description="BTIF" />
+  <mimeType extension=".bz" type="application/x-bzip" description="Bzip Archive" />
+  <mimeType extension=".bz2" type="application/x-bzip2" description="Bzip2 Archive" />
+  <mimeType extension=".c" type="text/plain" description="C Source File" />
+  <mimeType extension=".c++" type="text/plain" />
+  <mimeType extension=".c11amc" type="application/vnd.cluetrust.cartomobile-config" description="ClueTrust CartoMobile - Config" />
+  <mimeType extension=".c11amz" type="application/vnd.cluetrust.cartomobile-config-pkg" description="ClueTrust CartoMobile - Config Package" />
+  <mimeType extension=".c4d" type="application/vnd.clonk.c4group" />
+  <mimeType extension=".c4f" type="application/vnd.clonk.c4group" />
+  <mimeType extension=".c4g" type="application/vnd.clonk.c4group" description="Clonk Game" />
+  <mimeType extension=".c4p" type="application/vnd.clonk.c4group" />
+  <mimeType extension=".c4u" type="application/vnd.clonk.c4group" />
+  <mimeType extension=".cab" type="application/vnd.ms-cab-compressed" description="Microsoft Cabinet File" />
+  <mimeType extension=".car" type="application/vnd.curl.car" description="CURL Applet" />
+  <mimeType extension=".cat" type="application/vndms-pkiseccat" description="Microsoft Trust UI Provider - Security Catalog" />
+  <mimeType extension=".cc" type="text/x-c" />
+  <mimeType extension=".ccad" type="application/clariscad" />
+  <mimeType extension=".cco" type="application/x-cocoa" />
+  <mimeType extension=".cct" type="application/x-director" />
+  <mimeType extension=".ccxml" type="application/ccxml+xml" description="Voice Browser Call Control" />
+  <mimeType extension=".cdbcmsg" type="application/vnd.contact.cmsg" description="CIM Database" />
+  <mimeType extension=".cdf" type="application/x-cdf" />
+  <mimeType extension=".cdkey" type="application/vnd.mediastation.cdkey" description="MediaRemote" />
+  <mimeType extension=".cdmia" type="application/cdmi-capability" description="Cloud Data Management Interface (CDMI) - Capability" />
+  <mimeType extension=".cdmic" type="application/cdmi-container" description="Cloud Data Management Interface (CDMI) - Contaimer" />
+  <mimeType extension=".cdmid" type="application/cdmi-domain" description="Cloud Data Management Interface (CDMI) - Domain" />
+  <mimeType extension=".cdmio" type="application/cdmi-object" description="Cloud Data Management Interface (CDMI) - Object" />
+  <mimeType extension=".cdmiq" type="application/cdmi-queue" description="Cloud Data Management Interface (CDMI) - Queue" />
+  <mimeType extension=".cdx" type="chemical/x-cdx" description="ChemDraw eXchange file" />
+  <mimeType extension=".cdxml" type="application/vnd.chemdraw+xml" description="CambridgeSoft Chem Draw" />
+  <mimeType extension=".cdy" type="application/vnd.cinderella" description="Interactive Geometry Software Cinderella" />
+  <mimeType extension=".cer" type="application/x-x509-ca-cert" description="Internet Public Key Infrastructure - Certificate" />
+  <mimeType extension=".cgm" type="image/cgm" description="Computer Graphics Metafile" />
+  <mimeType extension=".cha" type="application/x-chat" />
+  <mimeType extension=".chat" type="application/x-chat" description="pIRCh" />
+  <mimeType extension=".chm" type="application/vnd.ms-htmlhelp" description="Microsoft Html Help File" />
+  <mimeType extension=".chrt" type="application/vnd.kde.kchart" description="KDE KOffice Office Suite - KChart" />
+  <mimeType extension=".cif" type="chemical/x-cif" description="Crystallographic Interchange Format" />
+  <mimeType extension=".cii" type="application/vnd.anser-web-certificate-issue-initiation" description="ANSER-WEB Terminal Client - Certificate Issue" />
+  <mimeType extension=".cil" type="application/vnd.ms-artgalry" description="Microsoft Artgalry" />
+  <mimeType extension=".cla" type="application/vnd.claymore" description="Claymore Data Files" />
+  <mimeType extension=".class" type="application/java-vm" description="Java Bytecode File" />
+  <mimeType extension=".clkk" type="application/vnd.crick.clicker.keyboard" description="CrickSoftware - Clicker - Keyboard" />
+  <mimeType extension=".clkp" type="application/vnd.crick.clicker.palette" description="CrickSoftware - Clicker - Palette" />
+  <mimeType extension=".clkt" type="application/vnd.crick.clicker.template" description="CrickSoftware - Clicker - Template" />
+  <mimeType extension=".clkw" type="application/vnd.crick.clicker.wordbank" description="CrickSoftware - Clicker - Wordbank" />
+  <mimeType extension=".clkx" type="application/vnd.crick.clicker" description="CrickSoftware - Clicker" />
+  <mimeType extension=".clp" type="application/x-msclip" description="Microsoft Clipboard Clip" />
+  <mimeType extension=".cmc" type="application/vnd.cosmocaller" description="CosmoCaller" />
+  <mimeType extension=".cmdf" type="chemical/x-cmdf" description="CrystalMaker Data Format" />
+  <mimeType extension=".cml" type="chemical/x-cml" description="Chemical Markup Language" />
+  <mimeType extension=".cmp" type="application/vnd.yellowriver-custom-menu" description="CustomMenu" />
+  <mimeType extension=".cmx" type="image/x-cmx" description="Corel Metafile Exchange (CMX)" />
+  <mimeType extension=".cod" type="image/cis-cod" description="Blackberry COD File" />
+  <mimeType extension=".com" type="application/x-msdownload" />
+  <mimeType extension=".conf" type="text/plain" />
+  <mimeType extension=".cpio" type="application/x-cpio" description="CPIO Archive" />
+  <mimeType extension=".cpp" type="text/x-c" />
+  <mimeType extension=".cpt" type="application/mac-compactpro" description="Compact Pro" />
+  <mimeType extension=".crd" type="application/x-mscardfile" description="Microsoft Information Card" />
+  <mimeType extension=".crl" type="application/pkix-crl" description="Internet Public Key Infrastructure - Certificate Revocation Lists" />
+  <mimeType extension=".crt" type="application/x-x509-ca-cert" />
+  <mimeType extension=".cryptonote" type="application/vnd.rig.cryptonote" description="CryptoNote" />
+  <mimeType extension=".csh" type="application/x-csh" description="C Shell Script" />
+  <mimeType extension=".csml" type="chemical/x-csml" description="Chemical Style Markup Language" />
+  <mimeType extension=".csp" type="application/vnd.commonspace" description="Sixth Floor Media - CommonSpace" />
+  <mimeType extension=".css" type="text/css" description="Cascading Style Sheets (CSS)" />
+  <mimeType extension=".cst" type="application/x-director" />
+  <mimeType extension=".csv" type="text/csv" description="Comma-Seperated Values" />
+  <mimeType extension=".cu" type="application/cu-seeme" description="CU-SeeMe" />
+  <mimeType extension=".curl" type="text/vnd.curl" description="Curl - Applet" />
+  <mimeType extension=".cww" type="application/prs.cww" description="CU-Writer" />
+  <mimeType extension=".cxt" type="application/x-director" />
+  <mimeType extension=".cxx" type="text/x-c" />
+  <mimeType extension=".dae" type="model/vnd.collada+xml" description="COLLADA" />
+  <mimeType extension=".daf" type="application/vnd.mobius.daf" description="Mobius Management Systems - UniversalArchive" />
+  <mimeType extension=".dataless" type="application/vnd.fdsn.seed" />
+  <mimeType extension=".davmount" type="application/davmount+xml" description="Web Distributed Authoring and Versioning" />
+  <mimeType extension=".dcr" type="application/x-director" />
+  <mimeType extension=".dcurl" type="text/vnd.curl.dcurl" description="Curl - Detached Applet" />
+  <mimeType extension=".dd2" type="application/vnd.oma.dd2+xml" description="OMA Download Agents" />
+  <mimeType extension=".ddd" type="application/vnd.fujixerox.ddd" description="Fujitsu - Xerox 2D CAD Data" />
+  <mimeType extension=".deb" type="application/x-debian-package" description="Debian Package" />
+  <mimeType extension=".deepv" type="application/x-deepv" />
+  <mimeType extension=".def" type="text/plain" />
+  <mimeType extension=".deploy" type="application/octet-stream" />
+  <mimeType extension=".der" type="application/x-x509-ca-cert" description="X.509 Certificate" />
+  <mimeType extension=".dfac" type="application/vnd.dreamfactory" description="DreamFactory" />
+  <mimeType extension=".dib" type="image/bmp" />
+  <mimeType extension=".dic" type="text/x-c" />
+  <mimeType extension=".dif" type="video/x-dv" />
+  <mimeType extension=".dir" type="application/x-director" description="Adobe Shockwave Player" />
+  <mimeType extension=".dis" type="application/vnd.mobius.dis" description="Mobius Management Systems - Distribution Database" />
+  <mimeType extension=".disco" type="text/xml" />
+  <mimeType extension=".dist" type="application/octet-stream" />
+  <mimeType extension=".distz" type="application/octet-stream" />
+  <mimeType extension=".djv" type="image/vnd.djvu" />
+  <mimeType extension=".djvu" type="image/vnd.djvu" description="DjVu" />
+  <mimeType extension=".dl" type="video/dl" />
+  <mimeType extension=".dll" type="application/x-msdownload" />
+  <mimeType extension=".dmg" type="application/octet-stream" />
+  <mimeType extension=".dms" type="application/octet-stream" />
+  <mimeType extension=".dna" type="application/vnd.dna" description="New Moon Liftoff/DNA" />
+  <mimeType extension=".doc" type="application/msword" description="Microsoft Word" />
+  <mimeType extension=".docm" type="application/vnd.ms-word.document.macroenabled.12" description="Micosoft Word - Macro-Enabled Document" />
+  <mimeType extension=".docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" description="Microsoft Office - OOXML - Word Document" />
+  <mimeType extension=".dot" type="application/msword" />
+  <mimeType extension=".dotm" type="application/vnd.ms-word.template.macroenabled.12" description="Micosoft Word - Macro-Enabled Template" />
+  <mimeType extension=".dotx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.template" description="Microsoft Office - OOXML - Word Document Template" />
+  <mimeType extension=".dp" type="application/vnd.osgi.dp" description="OSGi Deployment Package" />
+  <mimeType extension=".dpg" type="application/vnd.dpgraph" description="DPGraph" />
+  <mimeType extension=".dra" type="audio/vnd.dra" description="DRA Audio" />
+  <mimeType extension=".drw" type="application/drafting" />
+  <mimeType extension=".dsc" type="text/prs.lines.tag" description="PRS Lines Tag" />
+  <mimeType extension=".dssc" type="application/dssc+der" description="Data Structure for the Security Suitability of Cryptographic Algorithms" />
+  <mimeType extension=".dtb" type="application/x-dtbook+xml" description="Digital Talking Book" />
+  <mimeType extension=".dtd" type="application/xml-dtd" description="Document Type Definition" />
+  <mimeType extension=".dts" type="audio/vnd.dts" description="DTS Audio" />
+  <mimeType extension=".dtshd" type="audio/vnd.dts.hd" description="DTS High Definition Audio" />
+  <mimeType extension=".dump" type="application/octet-stream" />
+  <mimeType extension=".dv" type="video/x-dv" />
+  <mimeType extension=".dvi" type="application/x-dvi" description="Device Independent File Format (DVI)" />
+  <mimeType extension=".dwf" type="model/vnd.dwf" description="Autodesk Design Web Format (DWF)" />
+  <mimeType extension=".dwg" type="image/vnd.dwg" description="DWG Drawing" />
+  <mimeType extension=".dxf" type="image/vnd.dxf" description="AutoCAD DXF" />
+  <mimeType extension=".dxp" type="application/vnd.spotfire.dxp" description="TIBCO Spotfire" />
+  <mimeType extension=".dxr" type="application/x-director" />
+  <mimeType extension=".ecelp4800" type="audio/vnd.nuera.ecelp4800" description="Nuera ECELP 4800" />
+  <mimeType extension=".ecelp7470" type="audio/vnd.nuera.ecelp7470" description="Nuera ECELP 7470" />
+  <mimeType extension=".ecelp9600" type="audio/vnd.nuera.ecelp9600" description="Nuera ECELP 9600" />
+  <mimeType extension=".ecma" type="application/ecmascript" />
+  <mimeType extension=".edm" type="application/vnd.novadigm.edm" description="Novadigm's RADIA and EDM products" />
+  <mimeType extension=".edx" type="application/vnd.novadigm.edx" description="Novadigm's RADIA and EDM products" />
+  <mimeType extension=".efif" type="application/vnd.picsel" description="Pcsel eFIF File" />
+  <mimeType extension=".ei6" type="application/vnd.pg.osasli" description="Proprietary P&amp;G Standard Reporting System" />
+  <mimeType extension=".el" type="text/x-script.elisp" />
+  <mimeType extension=".elc" type="application/octet-stream" />
+  <mimeType extension=".eml" type="message/rfc822" description="Email Message" />
+  <mimeType extension=".emma" type="application/emma+xml" description="Extensible MultiModal Annotation" />
+  <mimeType extension=".env" type="application/x-envoy" />
+  <mimeType extension=".eol" type="audio/vnd.digital-winds" description="Digital Winds Music" />
+  <mimeType extension=".eot" type="application/vnd.ms-fontobject" description="Microsoft Embedded OpenType" />
+  <mimeType extension=".eps" type="application/postscript" />
+  <mimeType extension=".epub" type="application/epub+zip" description="Electronic Publication" />
+  <mimeType extension=".es" type="application/ecmascript" description="ECMAScript" />
+  <mimeType extension=".es3" type="application/vnd.eszigno3+xml" description="MICROSEC e-Szign¢" />
+  <mimeType extension=".esf" type="application/vnd.epson.esf" description="QUASS Stream Player" />
+  <mimeType extension=".et3" type="application/vnd.eszigno3+xml" />
+  <mimeType extension=".etx" type="text/x-setext" description="Setext" />
+  <mimeType extension=".evy" type="application/envoy" />
+  <mimeType extension=".exe" type="application/octet-stream" description="Microsoft Application" />
+  <mimeType extension=".exi" type="application/exi" description="Efficient XML Interchange" />
+  <mimeType extension=".ext" type="application/vnd.novadigm.ext" description="Novadigm's RADIA and EDM products" />
+  <mimeType extension=".ez" type="application/andrew-inset" />
+  <mimeType extension=".ez2" type="application/vnd.ezpix-album" description="EZPix Secure Photo Album" />
+  <mimeType extension=".ez3" type="application/vnd.ezpix-package" description="EZPix Secure Photo Album" />
+  <mimeType extension=".f" type="text/x-fortran" description="Fortran Source File" />
+  <mimeType extension=".f4v" type="video/x-f4v" description="Flash Video" />
+  <mimeType extension=".f77" type="text/x-fortran" />
+  <mimeType extension=".f90" type="text/x-fortran" />
+  <mimeType extension=".fbs" type="image/vnd.fastbidsheet" description="FastBid Sheet" />
+  <mimeType extension=".fcs" type="application/vnd.isac.fcs" description="International Society for Advancement of Cytometry" />
+  <mimeType extension=".fdf" type="application/vnd.fdf" description="Forms Data Format" />
+  <mimeType extension=".fe_launch" type="application/vnd.denovo.fcselayout-link" description="FCS Express Layout Link" />
+  <mimeType extension=".fg5" type="application/vnd.fujitsu.oasysgp" description="Fujitsu Oasys" />
+  <mimeType extension=".fgd" type="application/x-director" />
+  <mimeType extension=".fh" type="image/x-freehand" description="FreeHand MX" />
+  <mimeType extension=".fh4" type="image/x-freehand" />
+  <mimeType extension=".fh5" type="image/x-freehand" />
+  <mimeType extension=".fh7" type="image/x-freehand" />
+  <mimeType extension=".fhc" type="image/x-freehand" />
+  <mimeType extension=".fif" type="application/fractals" />
+  <mimeType extension=".fig" type="application/x-xfig" description="Xfig" />
+  <mimeType extension=".fli" type="video/x-fli" description="FLI/FLC Animation Format" />
+  <mimeType extension=".flo" type="application/vnd.micrografx.flo" description="Micrografx" />
+  <mimeType extension=".flr" type="x-world/x-vrml" />
+  <mimeType extension=".flv" type="video/x-flv" description="Flash Video" />
+  <mimeType extension=".flw" type="application/vnd.kde.kivio" description="KDE KOffice Office Suite - Kivio" />
+  <mimeType extension=".flx" type="text/vnd.fmi.flexstor" description="FLEXSTOR" />
+  <mimeType extension=".fly" type="text/vnd.fly" description="mod_fly / fly.cgi" />
+  <mimeType extension=".fm" type="application/vnd.framemaker" description="FrameMaker Normal Format" />
+  <mimeType extension=".fmf" type="video/x-atomic3d-feature" />
+  <mimeType extension=".fnc" type="application/vnd.frogans.fnc" description="Frogans Player" />
+  <mimeType extension=".for" type="text/x-fortran" />
+  <mimeType extension=".fpx" type="image/vnd.fpx" description="FlashPix" />
+  <mimeType extension=".frame" type="application/vnd.framemaker" />
+  <mimeType extension=".frl" type="application/freeloader" />
+  <mimeType extension=".fsc" type="application/vnd.fsc.weblaunch" description="Friendly Software Corporation" />
+  <mimeType extension=".fst" type="image/vnd.fst" description="FAST Search &amp; Transfer ASA" />
+  <mimeType extension=".ftc" type="application/vnd.fluxtime.clip" description="FluxTime Clip" />
+  <mimeType extension=".fti" type="application/vnd.anser-web-funds-transfer-initiation" description="ANSER-WEB Terminal Client - Web Funds Transfer" />
+  <mimeType extension=".funk" type="audio/make" />
+  <mimeType extension=".fvt" type="video/vnd.fvt" description="FAST Search &amp; Transfer ASA" />
+  <mimeType extension=".fxp" type="application/vnd.adobe.fxp" description="Adobe Flex Project" />
+  <mimeType extension=".fxpl" type="application/vnd.adobe.fxp" />
+  <mimeType extension=".fzs" type="application/vnd.fuzzysheet" description="FuzzySheet" />
+  <mimeType extension=".g" type="text/plain" />
+  <mimeType extension=".g2w" type="application/vnd.geoplan" description="GeoplanW" />
+  <mimeType extension=".g3" type="image/g3fax" description="G3 Fax Image" />
+  <mimeType extension=".g3w" type="application/vnd.geospace" description="GeospacW" />
+  <mimeType extension=".gac" type="application/vnd.groove-account" description="Groove - Account" />
+  <mimeType extension=".gdl" type="model/vnd.gdl" description="Geometric Description Language (GDL)" />
+  <mimeType extension=".geo" type="application/vnd.dynageo" description="DynaGeo" />
+  <mimeType extension=".gex" type="application/vnd.geometry-explorer" description="GeoMetry Explorer" />
+  <mimeType extension=".ggb" type="application/vnd.geogebra.file" description="GeoGebra" />
+  <mimeType extension=".ggt" type="application/vnd.geogebra.tool" description="GeoGebra" />
+  <mimeType extension=".ghf" type="application/vnd.groove-help" description="Groove - Help" />
+  <mimeType extension=".gif" type="image/gif" description="Graphics Interchange Format" />
+  <mimeType extension=".gim" type="application/vnd.groove-identity-message" description="Groove - Identity Message" />
+  <mimeType extension=".gl" type="video/gl" />
+  <mimeType extension=".gmx" type="application/vnd.gmx" description="GameMaker ActiveX" />
+  <mimeType extension=".gnumeric" type="application/x-gnumeric" description="Gnumeric" />
+  <mimeType extension=".gph" type="application/vnd.flographit" description="NpGraphIt" />
+  <mimeType extension=".gqf" type="application/vnd.grafeq" description="GrafEq" />
+  <mimeType extension=".gqs" type="application/vnd.grafeq" />
+  <mimeType extension=".gram" type="application/srgs" description="Speech Recognition Grammar Specification" />
+  <mimeType extension=".gre" type="application/vnd.geometry-explorer" />
+  <mimeType extension=".grv" type="application/vnd.groove-injector" description="Groove - Injector" />
+  <mimeType extension=".grxml" type="application/srgs+xml" description="Speech Recognition Grammar Specification - XML" />
+  <mimeType extension=".gsd" type="audio/x-gsm" />
+  <mimeType extension=".gsf" type="application/x-font-ghostscript" description="Ghostscript Font" />
+  <mimeType extension=".gsm" type="audio/x-gsm" />
+  <mimeType extension=".gsp" type="application/x-gsp" />
+  <mimeType extension=".gss" type="application/x-gss" />
+  <mimeType extension=".gtar" type="application/x-gtar" description="GNU Tar Files" />
+  <mimeType extension=".gtm" type="application/vnd.groove-tool-message" description="Groove - Tool Message" />
+  <mimeType extension=".gtw" type="model/vnd.gtw" description="Gen-Trix Studio" />
+  <mimeType extension=".gv" type="text/vnd.graphviz" description="Graphviz" />
+  <mimeType extension=".gxt" type="application/vnd.geonext" description="GEONExT and JSXGraph" />
+  <mimeType extension=".gz" type="application/x-gzip" />
+  <mimeType extension=".gzip" type="application/x-gzip" />
+  <mimeType extension=".h" type="text/plain" />
+  <mimeType extension=".h261" type="video/h261" description="H.261" />
+  <mimeType extension=".h263" type="video/h263" description="H.263" />
+  <mimeType extension=".h264" type="video/h264" description="H.264" />
+  <mimeType extension=".hal" type="application/vnd.hal+xml" description="Hypertext Application Language" />
+  <mimeType extension=".hbci" type="application/vnd.hbci" description="Homebanking Computer Interface (HBCI)" />
+  <mimeType extension=".hdf" type="application/x-hdf" description="Hierarchical Data Format" />
+  <mimeType extension=".help" type="application/x-helpfile" />
+  <mimeType extension=".hgl" type="application/vnd.hp-hpgl" />
+  <mimeType extension=".hh" type="text/x-c" />
+  <mimeType extension=".hlb" type="text/x-script" />
+  <mimeType extension=".hlp" type="application/winhlp" description="WinHelp" />
+  <mimeType extension=".hpg" type="application/vnd.hp-hpgl" />
+  <mimeType extension=".hpgl" type="application/vnd.hp-hpgl" description="HP-GL/2 and HP RTL" />
+  <mimeType extension=".hpid" type="application/vnd.hp-hpid" description="Hewlett Packard Instant Delivery" />
+  <mimeType extension=".hps" type="application/vnd.hp-hps" description="Hewlett-Packard's WebPrintSmart" />
+  <mimeType extension=".hqx" type="application/mac-binhex40" description="Macintosh BinHex 4.0" />
+  <mimeType extension=".hta" type="application/hta" />
+  <mimeType extension=".htc" type="text/x-component" />
+  <mimeType extension=".htke" type="application/vnd.kenameaapp" description="Kenamea App" />
+  <mimeType extension=".htm" type="text/html" />
+  <mimeType extension=".html" type="text/html" description="HyperText Markup Language (HTML)" />
+  <mimeType extension=".htmls" type="text/html" />
+  <mimeType extension=".htt" type="text/webviewhtml" />
+  <mimeType extension=".htx" type="text/html" />
+  <mimeType extension=".hvd" type="application/vnd.yamaha.hv-dic" description="HV Voice Dictionary" />
+  <mimeType extension=".hvp" type="application/vnd.yamaha.hv-voice" description="HV Voice Parameter" />
+  <mimeType extension=".hvs" type="application/vnd.yamaha.hv-script" description="HV Script" />
+  <mimeType extension=".i2g" type="application/vnd.intergeo" description="Interactive Geometry Software" />
+  <mimeType extension=".icc" type="application/vnd.iccprofile" description="ICC profile" />
+  <mimeType extension=".ice" type="x-conference/x-cooltalk" description="CoolTalk" />
+  <mimeType extension=".icm" type="application/vnd.iccprofile" />
+  <mimeType extension=".ico" type="image/x-icon" description="Icon Image" />
+  <mimeType extension=".ics" type="text/calendar" description="iCalendar" />
+  <mimeType extension=".idc" type="text/plain" />
+  <mimeType extension=".ief" type="image/ief" description="Image Exchange Format" />
+  <mimeType extension=".iefs" type="image/ief" />
+  <mimeType extension=".ifb" type="text/calendar" />
+  <mimeType extension=".ifm" type="application/vnd.shana.informed.formdata" description="Shana Informed Filler" />
+  <mimeType extension=".iges" type="model/iges" />
+  <mimeType extension=".igl" type="application/vnd.igloader" description="igLoader" />
+  <mimeType extension=".igm" type="application/vnd.insors.igm" description="IOCOM Visimeet" />
+  <mimeType extension=".igs" type="model/iges" description="Initial Graphics Exchange Specification (IGES)" />
+  <mimeType extension=".igx" type="application/vnd.micrografx.igx" description="Micrografx iGrafx Professional" />
+  <mimeType extension=".iif" type="application/vnd.shana.informed.interchange" description="Shana Informed Filler" />
+  <mimeType extension=".iii" type="application/x-iphone" />
+  <mimeType extension=".ima" type="application/x-ima" />
+  <mimeType extension=".imap" type="application/x-httpd-imap" />
+  <mimeType extension=".imp" type="application/vnd.accpac.simply.imp" description="Simply Accounting - Data Import" />
+  <mimeType extension=".ims" type="application/vnd.ms-ims" description="Microsoft Class Server" />
+  <mimeType extension=".in" type="text/plain" />
+  <mimeType extension=".inf" type="application/inf" />
+  <mimeType extension=".ins" type="application/x-internet-signup" />
+  <mimeType extension=".ip" type="application/x-ip2" />
+  <mimeType extension=".ipfix" type="application/ipfix" description="Internet Protocol Flow Information Export" />
+  <mimeType extension=".ipk" type="application/vnd.shana.informed.package" description="Shana Informed Filler" />
+  <mimeType extension=".irm" type="application/vnd.ibm.rights-management" description="IBM DB2 Rights Manager" />
+  <mimeType extension=".irp" type="application/vnd.irepository.package+xml" description="iRepository / Lucidoc Editor" />
+  <mimeType extension=".iso" type="application/octet-stream" />
+  <mimeType extension=".isp" type="application/x-internet-signup" />
+  <mimeType extension=".isu" type="video/x-isvideo" />
+  <mimeType extension=".it" type="audio/it" />
+  <mimeType extension=".itp" type="application/vnd.shana.informed.formtemplate" description="Shana Informed Filler" />
+  <mimeType extension=".iv" type="application/x-inventor" />
+  <mimeType extension=".ivf" type="video/x-ivf" />
+  <mimeType extension=".ivp" type="application/vnd.immervision-ivp" description="ImmerVision PURE Players" />
+  <mimeType extension=".ivr" type="i-world/i-vrml" />
+  <mimeType extension=".ivu" type="application/vnd.immervision-ivu" description="ImmerVision PURE Players" />
+  <mimeType extension=".ivy" type="application/x-livescreen" />
+  <mimeType extension=".jad" type="text/vnd.sun.j2me.app-descriptor" description="J2ME App Descriptor" />
+  <mimeType extension=".jam" type="application/vnd.jam" description="Lightspeed Audio Lab" />
+  <mimeType extension=".jar" type="application/java-archive" description="Java Archive" />
+  <mimeType extension=".jav" type="text/plain" />
+  <mimeType extension=".java" type="text/x-java-source" description="Java Source File" />
+  <mimeType extension=".jcm" type="application/x-java-commerce" />
+  <mimeType extension=".jfif" type="image/pjpeg" />
+  <mimeType extension=".jfif-tbnl" type="image/jpeg" />
+  <mimeType extension=".jisp" type="application/vnd.jisp" description="RhymBox" />
+  <mimeType extension=".jlt" type="application/vnd.hp-jlyt" description="HP Indigo Digital Press - Job Layout Languate" />
+  <mimeType extension=".jnlp" type="application/x-java-jnlp-file" description="Java Network Launching Protocol" />
+  <mimeType extension=".joda" type="application/vnd.joost.joda-archive" description="Joda Archive" />
+  <mimeType extension=".jpe" type="image/jpeg" />
+  <mimeType extension=".jpeg" type="image/jpeg" />
+  <mimeType extension=".jpg" type="image/jpeg" />
+  <mimeType extension=".jpgm" type="video/jpm" />
+  <mimeType extension=".jpgv" type="video/jpeg" description="JPGVideo" />
+  <mimeType extension=".jpm" type="video/jpm" description="JPEG 2000 Compound Image File Format" />
+  <mimeType extension=".jps" type="image/x-jps" />
+  <mimeType extension=".js" type="application/x-javascript" description="JavaScript" />
+  <mimeType extension=".json" type="application/json" description="JavaScript Object Notation (JSON)" />
+  <mimeType extension=".jut" type="image/jutvision" />
+  <mimeType extension=".kar" type="audio/midi" />
+  <mimeType extension=".karbon" type="application/vnd.kde.karbon" description="KDE KOffice Office Suite - Karbon" />
+  <mimeType extension=".kfo" type="application/vnd.kde.kformula" description="KDE KOffice Office Suite - Kformula" />
+  <mimeType extension=".kia" type="application/vnd.kidspiration" description="Kidspiration" />
+  <mimeType extension=".kml" type="application/vnd.google-earth.kml+xml" description="Google Earth - KML" />
+  <mimeType extension=".kmz" type="application/vnd.google-earth.kmz" description="Google Earth - Zipped KML" />
+  <mimeType extension=".kne" type="application/vnd.kinar" description="Kinar Applications" />
+  <mimeType extension=".knp" type="application/vnd.kinar" />
+  <mimeType extension=".kon" type="application/vnd.kde.kontour" description="KDE KOffice Office Suite - Kontour" />
+  <mimeType extension=".kpr" type="application/vnd.kde.kpresenter" description="KDE KOffice Office Suite - Kpresenter" />
+  <mimeType extension=".kpt" type="application/vnd.kde.kpresenter" />
+  <mimeType extension=".ksh" type="application/x-ksh" />
+  <mimeType extension=".ksp" type="application/vnd.kde.kspread" description="KDE KOffice Office Suite - Kspread" />
+  <mimeType extension=".ktr" type="application/vnd.kahootz" />
+  <mimeType extension=".ktx" type="image/ktx" description="OpenGL Textures (KTX)" />
+  <mimeType extension=".ktz" type="application/vnd.kahootz" description="Kahootz" />
+  <mimeType extension=".kwd" type="application/vnd.kde.kword" description="KDE KOffice Office Suite - Kword" />
+  <mimeType extension=".kwt" type="application/vnd.kde.kword" />
+  <mimeType extension=".la" type="audio/nspaudio" />
+  <mimeType extension=".lam" type="audio/x-liveaudio" />
+  <mimeType extension=".lasxml" type="application/vnd.las.las+xml" description="Laser App Enterprise" />
+  <mimeType extension=".latex" type="application/x-latex" description="LaTeX" />
+  <mimeType extension=".lbd" type="application/vnd.llamagraphics.life-balance.desktop" description="Life Balance - Desktop Edition" />
+  <mimeType extension=".lbe" type="application/vnd.llamagraphics.life-balance.exchange+xml" description="Life Balance - Exchange Format" />
+  <mimeType extension=".les" type="application/vnd.hhe.lesson-player" description="Archipelago Lesson Player" />
+  <mimeType extension=".lha" type="application/octet-stream" />
+  <mimeType extension=".lhx" type="application/octet-stream" />
+  <mimeType extension=".link66" type="application/vnd.route66.link66+xml" description="ROUTE 66 Location Based Services" />
+  <mimeType extension=".list" type="text/plain" />
+  <mimeType extension=".list3820" type="application/vnd.ibm.modcap" />
+  <mimeType extension=".listafp" type="application/vnd.ibm.modcap" />
+  <mimeType extension=".lma" type="audio/nspaudio" />
+  <mimeType extension=".log" type="text/plain" />
+  <mimeType extension=".lostxml" type="application/lost+xml" />
+  <mimeType extension=".lrf" type="application/octet-stream" />
+  <mimeType extension=".lrm" type="application/vnd.ms-lrm" description="Microsoft Learning Resource Module" />
+  <mimeType extension=".lsf" type="video/x-la-asf" />
+  <mimeType extension=".lsp" type="application/x-lisp" />
+  <mimeType extension=".lst" type="text/plain" />
+  <mimeType extension=".lsx" type="video/x-la-asf" />
+  <mimeType extension=".ltf" type="application/vnd.frogans.ltf" description="Frogans Player" />
+  <mimeType extension=".ltx" type="application/x-latex" />
+  <mimeType extension=".lvp" type="audio/vnd.lucent.voice" description="Lucent Voice" />
+  <mimeType extension=".lwp" type="application/vnd.lotus-wordpro" description="Lotus Wordpro" />
+  <mimeType extension=".lzh" type="application/octet-stream" />
+  <mimeType extension=".lzx" type="application/lzx" />
+  <mimeType extension=".m" type="text/plain" />
+  <mimeType extension=".m13" type="application/x-msmediaview" />
+  <mimeType extension=".m14" type="application/x-msmediaview" />
+  <mimeType extension=".m1v" type="video/mpeg" />
+  <mimeType extension=".m21" type="application/mp21" description="MPEG-21" />
+  <mimeType extension=".m2a" type="audio/mpeg" />
+  <mimeType extension=".m2v" type="video/mpeg" />
+  <mimeType extension=".m3a" type="audio/mpeg" />
+  <mimeType extension=".m3u" type="audio/x-mpegurl" description="M3U (Multimedia Playlist)" />
+  <mimeType extension=".m3u8" type="application/vnd.apple.mpegurl" description="Multimedia Playlist Unicode" />
+  <mimeType extension=".m4u" type="video/vnd.mpegurl" />
+  <mimeType extension=".m4v" type="video/x-m4v" description="M4v" />
+  <mimeType extension=".ma" type="application/mathematica" description="Mathematica Notebooks" />
+  <mimeType extension=".mads" type="application/mads+xml" description="Metadata Authority Description Schema" />
+  <mimeType extension=".mag" type="application/vnd.ecowin.chart" description="EcoWin Chart" />
+  <mimeType extension=".maker" type="application/vnd.framemaker" />
+  <mimeType extension=".man" type="application/x-troff-man" />
+  <mimeType extension=".manifest" type="application/x-ms-manifest" />
+  <mimeType extension=".map" type="application/x-navimap" />
+  <mimeType extension=".mar" type="text/plain" />
+  <mimeType extension=".mathml" type="application/mathml+xml" description="Mathematical Markup Language" />
+  <mimeType extension=".mb" type="application/mathematica" />
+  <mimeType extension=".mbd" type="application/mbedlet" />
+  <mimeType extension=".mbk" type="application/vnd.mobius.mbk" description="Mobius Management Systems - Basket file" />
+  <mimeType extension=".mbox" type="application/mbox" description="Mbox database files" />
+  <mimeType extension=".mc$" type="application/x-magic-cap-package-1.0" />
+  <mimeType extension=".mc1" type="application/vnd.medcalcdata" description="MedCalc" />
+  <mimeType extension=".mcd" type="application/vnd.mcd" description="Micro CADAM Helix D&amp;D" />
+  <mimeType extension=".mcf" type="image/vasa" />
+  <mimeType extension=".mcp" type="application/netmc" />
+  <mimeType extension=".mcurl" type="text/vnd.curl.mcurl" description="Curl - Manifest File" />
+  <mimeType extension=".mdb" type="application/x-msaccess" description="Microsoft Access" />
+  <mimeType extension=".mdi" type="image/vnd.ms-modi" description="Microsoft Document Imaging Format" />
+  <mimeType extension=".me" type="application/x-troff-me" />
+  <mimeType extension=".mesh" type="model/mesh" />
+  <mimeType extension=".meta4" type="application/metalink4+xml" description="Metalink" />
+  <mimeType extension=".mets" type="application/mets+xml" description="Metadata Encoding and Transmission Standard" />
+  <mimeType extension=".mfm" type="application/vnd.mfmp" description="Melody Format for Mobile Platform" />
+  <mimeType extension=".mgp" type="application/vnd.osgeo.mapguide.package" description="MapGuide DBXML" />
+  <mimeType extension=".mgz" type="application/vnd.proteus.magazine" description="EFI Proteus" />
+  <mimeType extension=".mht" type="message/rfc822" />
+  <mimeType extension=".mhtml" type="message/rfc822" />
+  <mimeType extension=".mid" type="audio/mid" description="MIDI - Musical Instrument Digital Interface" />
+  <mimeType extension=".midi" type="audio/midi" />
+  <mimeType extension=".mif" type="application/vnd.mif" description="FrameMaker Interchange Format" />
+  <mimeType extension=".mime" type="message/rfc822" />
+  <mimeType extension=".mj2" type="video/mj2" description="Motion JPEG 2000" />
+  <mimeType extension=".mjf" type="audio/x-vnd.audioexplosion.mjuicemediafile" />
+  <mimeType extension=".mjp2" type="video/mj2" />
+  <mimeType extension=".mjpg" type="video/x-motion-jpeg" />
+  <mimeType extension=".mlp" type="application/vnd.dolby.mlp" description="Dolby Meridian Lossless Packing" />
+  <mimeType extension=".mm" type="application/base64" />
+  <mimeType extension=".mmd" type="application/vnd.chipnuts.karaoke-mmd" description="Karaoke on Chipnuts Chipsets" />
+  <mimeType extension=".mme" type="application/base64" />
+  <mimeType extension=".mmf" type="application/vnd.smaf" description="SMAF File" />
+  <mimeType extension=".mmr" type="image/vnd.fujixerox.edmics-mmr" description="EDMICS 2000" />
+  <mimeType extension=".mny" type="application/x-msmoney" description="Microsoft Money" />
+  <mimeType extension=".mobi" type="application/x-mobipocket-ebook" />
+  <mimeType extension=".mod" type="audio/mod" />
+  <mimeType extension=".mods" type="application/mods+xml" description="Metadata Object Description Schema" />
+  <mimeType extension=".moov" type="video/quicktime" />
+  <mimeType extension=".mov" type="video/quicktime" />
+  <mimeType extension=".movie" type="video/x-sgi-movie" description="SGI Movie" />
+  <mimeType extension=".mp2" type="video/mpeg" />
+  <mimeType extension=".mp21" type="application/mp21" />
+  <mimeType extension=".mp2a" type="audio/mpeg" />
+  <mimeType extension=".mp3" type="audio/mpeg" />
+  <mimeType extension=".mp4" type="video/mp4" description="MPEG-4 Video" />
+  <mimeType extension=".mp4a" type="audio/mp4" description="MPEG-4 Audio" />
+  <mimeType extension=".mp4s" type="application/mp4" />
+  <mimeType extension=".mp4v" type="video/mp4" />
+  <mimeType extension=".mpa" type="video/mpeg" />
+  <mimeType extension=".mpc" type="application/vnd.mophun.certificate" description="Mophun Certificate" />
+  <mimeType extension=".mpe" type="video/mpeg" />
+  <mimeType extension=".mpeg" type="video/mpeg" description="MPEG Video" />
+  <mimeType extension=".mpg" type="video/mpeg" />
+  <mimeType extension=".mpg4" type="video/mp4" />
+  <mimeType extension=".mpga" type="audio/mpeg" description="MPEG Audio" />
+  <mimeType extension=".mpkg" type="application/vnd.apple.installer+xml" description="Apple Installer Package" />
+  <mimeType extension=".mpm" type="application/vnd.blueice.multipass" description="Blueice Research Multipass" />
+  <mimeType extension=".mpn" type="application/vnd.mophun.application" description="Mophun VM" />
+  <mimeType extension=".mpp" type="application/vnd.ms-project" description="Microsoft Project" />
+  <mimeType extension=".mpt" type="application/vnd.ms-project" />
+  <mimeType extension=".mpv" type="application/x-project" />
+  <mimeType extension=".mpv2" type="video/mpeg" />
+  <mimeType extension=".mpx" type="application/x-project" />
+  <mimeType extension=".mpy" type="application/vnd.ibm.minipay" description="MiniPay" />
+  <mimeType extension=".mqy" type="application/vnd.mobius.mqy" description="Mobius Management Systems - Query File" />
+  <mimeType extension=".mrc" type="application/marc" description="MARC Formats" />
+  <mimeType extension=".mrcx" type="application/marcxml+xml" description="MARC21 XML Schema" />
+  <mimeType extension=".ms" type="application/x-troff-ms" />
+  <mimeType extension=".mscml" type="application/mediaservercontrol+xml" description="Media Server Control Markup Language" />
+  <mimeType extension=".mseed" type="application/vnd.fdsn.mseed" />
+  <mimeType extension=".mseq" type="application/vnd.mseq" description="3GPP MSEQ File" />
+  <mimeType extension=".msf" type="application/vnd.epson.msf" description="QUASS Stream Player" />
+  <mimeType extension=".msh" type="model/mesh" description="Mesh Data Type" />
+  <mimeType extension=".msi" type="application/x-msdownload" />
+  <mimeType extension=".msl" type="application/vnd.mobius.msl" description="Mobius Management Systems - Script Language" />
+  <mimeType extension=".msty" type="application/vnd.muvee.style" description="Muvee Automatic Video Editing" />
+  <mimeType extension=".mts" type="model/vnd.mts" description="Virtue MTS" />
+  <mimeType extension=".mus" type="application/vnd.musician" description="MUsical Score Interpreted Code Invented for the ASCII designation of Notation" />
+  <mimeType extension=".musicxml" type="application/vnd.recordare.musicxml+xml" description="Recordare Applications" />
+  <mimeType extension=".mv" type="video/x-sgi-movie" />
+  <mimeType extension=".mvb" type="application/x-msmediaview" description="Microsoft MediaView" />
+  <mimeType extension=".mwf" type="application/vnd.mfer" description="Medical Waveform Encoding Format" />
+  <mimeType extension=".mxf" type="application/mxf" description="Material Exchange Format" />
+  <mimeType extension=".mxl" type="application/vnd.recordare.musicxml" description="Recordare Applications" />
+  <mimeType extension=".mxml" type="application/xv+xml" description="MXML" />
+  <mimeType extension=".mxs" type="application/vnd.triscape.mxs" description="Triscape Map Explorer" />
+  <mimeType extension=".mxu" type="video/vnd.mpegurl" description="MPEG Url" />
+  <mimeType extension=".my" type="audio/make" />
+  <mimeType extension=".mzz" type="application/x-vnd.audioexplosion.mzz" />
+  <mimeType extension=".n3" type="text/n3" description="Notation3" />
+  <mimeType extension=".nap" type="image/naplps" />
+  <mimeType extension=".naplps" type="image/naplps" />
+  <mimeType extension=".nb" type="application/mathematica" />
+  <mimeType extension=".nbp" type="application/vnd.wolfram.player" description="Mathematica Notebook Player" />
+  <mimeType extension=".nc" type="application/x-netcdf" description="Network Common Data Form (NetCDF)" />
+  <mimeType extension=".ncm" type="application/vnd.nokia.configuration-message" />
+  <mimeType extension=".ncx" type="application/x-dtbncx+xml" description="Navigation Control file for XML (for ePub)" />
+  <mimeType extension=".n-gage" type="application/vnd.nokia.n-gage.symbian.install" description="N-Gage Game Installer" />
+  <mimeType extension=".ngdat" type="application/vnd.nokia.n-gage.data" description="N-Gage Game Data" />
+  <mimeType extension=".nif" type="image/x-niff" />
+  <mimeType extension=".niff" type="image/x-niff" />
+  <mimeType extension=".nix" type="application/x-mix-transfer" />
+  <mimeType extension=".nlu" type="application/vnd.neurolanguage.nlu" description="neuroLanguage" />
+  <mimeType extension=".nml" type="application/vnd.enliven" description="Enliven Viewer" />
+  <mimeType extension=".nnd" type="application/vnd.noblenet-directory" description="NobleNet Directory" />
+  <mimeType extension=".nns" type="application/vnd.noblenet-sealer" description="NobleNet Sealer" />
+  <mimeType extension=".nnw" type="application/vnd.noblenet-web" description="NobleNet Web" />
+  <mimeType extension=".npx" type="image/vnd.net-fpx" description="FlashPix" />
+  <mimeType extension=".nsc" type="application/x-conference" />
+  <mimeType extension=".nsf" type="application/vnd.lotus-notes" description="Lotus Notes" />
+  <mimeType extension=".nvd" type="application/x-navidoc" />
+  <mimeType extension=".nws" type="message/rfc822" />
+  <mimeType extension=".o" type="application/octet-stream" />
+  <mimeType extension=".oa2" type="application/vnd.fujitsu.oasys2" description="Fujitsu Oasys" />
+  <mimeType extension=".oa3" type="application/vnd.fujitsu.oasys3" description="Fujitsu Oasys" />
+  <mimeType extension=".oas" type="application/vnd.fujitsu.oasys" description="Fujitsu Oasys" />
+  <mimeType extension=".obd" type="application/x-msbinder" description="Microsoft Office Binder" />
+  <mimeType extension=".oda" type="application/oda" description="Office Document Architecture" />
+  <mimeType extension=".odb" type="application/vnd.oasis.opendocument.database" description="OpenDocument Database" />
+  <mimeType extension=".odc" type="application/vnd.oasis.opendocument.chart" description="OpenDocument Chart" />
+  <mimeType extension=".odf" type="application/vnd.oasis.opendocument.formula" description="OpenDocument Formula" />
+  <mimeType extension=".odft" type="application/vnd.oasis.opendocument.formula-template" description="OpenDocument Formula Template" />
+  <mimeType extension=".odg" type="application/vnd.oasis.opendocument.graphics" description="OpenDocument Graphics" />
+  <mimeType extension=".odi" type="application/vnd.oasis.opendocument.image" description="OpenDocument Image" />
+  <mimeType extension=".odm" type="application/vnd.oasis.opendocument.text-master" description="OpenDocument Text Master" />
+  <mimeType extension=".odp" type="application/vnd.oasis.opendocument.presentation" description="OpenDocument Presentation" />
+  <mimeType extension=".ods" type="application/oleobject" description="OpenDocument Spreadsheet" />
+  <mimeType extension=".odt" type="application/vnd.oasis.opendocument.text" description="OpenDocument Text" />
+  <mimeType extension=".oga" type="audio/ogg" description="Ogg Audio" />
+  <mimeType extension=".ogg" type="audio/ogg" />
+  <mimeType extension=".ogv" type="video/ogg" description="Ogg Video" />
+  <mimeType extension=".ogx" type="application/ogg" description="Ogg" />
+  <mimeType extension=".omc" type="application/x-omc" />
+  <mimeType extension=".omcd" type="application/x-omcdatamaker" />
+  <mimeType extension=".omcr" type="application/x-omcregerator" />
+  <mimeType extension=".onepkg" type="application/onenote" />
+  <mimeType extension=".onetmp" type="application/onenote" />
+  <mimeType extension=".onetoc" type="application/onenote" description="Microsoft OneNote" />
+  <mimeType extension=".onetoc2" type="application/onenote" />
+  <mimeType extension=".opf" type="application/oebps-package+xml" description="Open eBook Publication Structure" />
+  <mimeType extension=".oprc" type="application/vnd.palm" />
+  <mimeType extension=".org" type="application/vnd.lotus-organizer" description="Lotus Organizer" />
+  <mimeType extension=".osf" type="application/vnd.yamaha.openscoreformat" description="Open Score Format" />
+  <mimeType extension=".osfpvg" type="application/vnd.yamaha.openscoreformat.osfpvg+xml" description="OSFPVG" />
+  <mimeType extension=".otc" type="application/vnd.oasis.opendocument.chart-template" description="OpenDocument Chart Template" />
+  <mimeType extension=".otf" type="application/x-font-otf" description="OpenType Font File" />
+  <mimeType extension=".otg" type="application/vnd.oasis.opendocument.graphics-template" description="OpenDocument Graphics Template" />
+  <mimeType extension=".oth" type="application/vnd.oasis.opendocument.text-web" description="Open Document Text Web" />
+  <mimeType extension=".oti" type="application/vnd.oasis.opendocument.image-template" description="OpenDocument Image Template" />
+  <mimeType extension=".otp" type="application/vnd.oasis.opendocument.presentation-template" description="OpenDocument Presentation Template" />
+  <mimeType extension=".ots" type="application/vnd.oasis.opendocument.spreadsheet-template" description="OpenDocument Spreadsheet Template" />
+  <mimeType extension=".ott" type="application/vnd.oasis.opendocument.text-template" description="OpenDocument Text Template" />
+  <mimeType extension=".oxt" type="application/vnd.openofficeorg.extension" description="Open Office Extension" />
+  <mimeType extension=".p" type="text/x-pascal" description="Pascal Source File" />
+  <mimeType extension=".p10" type="application/pkcs10" description="PKCS #10 - Certification Request Standard" />
+  <mimeType extension=".p12" type="application/x-pkcs12" description="PKCS #12 - Personal Information Exchange Syntax Standard" />
+  <mimeType extension=".p7a" type="application/x-pkcs7-signature" />
+  <mimeType extension=".p7b" type="application/x-pkcs7-certificates" description="PKCS #7 - Cryptographic Message Syntax Standard (Certificates)" />
+  <mimeType extension=".p7c" type="application/pkcs7-mime" />
+  <mimeType extension=".p7m" type="application/pkcs7-mime" description="PKCS #7 - Cryptographic Message Syntax Standard" />
+  <mimeType extension=".p7r" type="application/x-pkcs7-certreqresp" description="PKCS #7 - Cryptographic Message Syntax Standard (Certificate Request Response)" />
+  <mimeType extension=".p7s" type="application/pkcs7-signature" description="PKCS #7 - Cryptographic Message Syntax Standard" />
+  <mimeType extension=".p8" type="application/pkcs8" description="PKCS #8 - Private-Key Information Syntax Standard" />
+  <mimeType extension=".par" type="text/plain-bas" description="BAS Partitur Format" />
+  <mimeType extension=".part" type="application/pro_eng" />
+  <mimeType extension=".pas" type="text/x-pascal" />
+  <mimeType extension=".paw" type="application/vnd.pawaafile" description="PawaaFILE" />
+  <mimeType extension=".pbd" type="application/vnd.powerbuilder6" description="PowerBuilder" />
+  <mimeType extension=".pbm" type="image/x-portable-bitmap" description="Portable Bitmap Format" />
+  <mimeType extension=".pcf" type="application/x-font-pcf" description="Portable Compiled Format" />
+  <mimeType extension=".pcl" type="application/vnd.hp-pcl" description="HP Printer Command Language" />
+  <mimeType extension=".pclxl" type="application/vnd.hp-pclxl" description="PCL 6 Enhanced (Formely PCL XL)" />
+  <mimeType extension=".pct" type="image/x-pict" />
+  <mimeType extension=".pcurl" type="application/vnd.curl.pcurl" description="CURL Applet" />
+  <mimeType extension=".pcx" type="image/x-pcx" description="PCX Image" />
+  <mimeType extension=".pdb" type="application/vnd.palm" description="PalmOS Data" />
+  <mimeType extension=".pdf" type="application/pdf" description="Adobe Portable Document Format" />
+  <mimeType extension=".pfa" type="application/x-font-type1" description="PostScript Fonts" />
+  <mimeType extension=".pfb" type="application/x-font-type1" />
+  <mimeType extension=".pfm" type="application/x-font-type1" />
+  <mimeType extension=".pfr" type="application/font-tdpfr" description="Portable Font Resource" />
+  <mimeType extension=".pfunk" type="audio/make" />
+  <mimeType extension=".pfx" type="application/x-pkcs12" />
+  <mimeType extension=".pgm" type="image/x-portable-graymap" description="Portable Graymap Format" />
+  <mimeType extension=".pgn" type="application/x-chess-pgn" description="Portable Game Notation (Chess Games)" />
+  <mimeType extension=".pgp" type="application/pgp-encrypted" description="Pretty Good Privacy - Signature" />
+  <mimeType extension=".pic" type="image/x-pict" description="PICT Image" />
+  <mimeType extension=".pict" type="image/pict" />
+  <mimeType extension=".pkg" type="application/octet-stream" />
+  <mimeType extension=".pki" type="application/pkixcmp" description="Internet Public Key Infrastructure - Certificate Management Protocole" />
+  <mimeType extension=".pkipath" type="application/pkix-pkipath" description="Internet Public Key Infrastructure - Certification Path" />
+  <mimeType extension=".pko" type="application/vndms-pkipko" />
+  <mimeType extension=".pl" type="text/plain" />
+  <mimeType extension=".plb" type="application/vnd.3gpp.pic-bw-large" description="3rd Generation Partnership Project - Pic Large" />
+  <mimeType extension=".plc" type="application/vnd.mobius.plc" description="Mobius Management Systems - Policy Definition Language File" />
+  <mimeType extension=".plf" type="application/vnd.pocketlearn" description="PocketLearn Viewers" />
+  <mimeType extension=".pls" type="application/pls+xml" description="Pronunciation Lexicon Specification" />
+  <mimeType extension=".plx" type="application/x-pixclscript" />
+  <mimeType extension=".pm" type="image/x-xpixmap" />
+  <mimeType extension=".pm4" type="application/x-pagemaker" />
+  <mimeType extension=".pm5" type="application/x-pagemaker" />
+  <mimeType extension=".pma" type="application/x-perfmon" />
+  <mimeType extension=".pmc" type="application/x-perfmon" />
+  <mimeType extension=".pml" type="application/x-perfmon" description="PosML" />
+  <mimeType extension=".pmr" type="application/x-perfmon" />
+  <mimeType extension=".pmw" type="application/x-perfmon" />
+  <mimeType extension=".png" type="image/png" description="Portable Network Graphics (PNG)" />
+  <mimeType extension=".pnm" type="image/x-portable-anymap" description="Portable Anymap Image" />
+  <mimeType extension=".portpkg" type="application/vnd.macports.portpkg" description="MacPorts Port System" />
+  <mimeType extension=".pot" type="application/vnd.ms-powerpoint" />
+  <mimeType extension=".potm" type="application/vnd.ms-powerpoint.template.macroenabled.12" description="Micosoft PowerPoint - Macro-Enabled Template File" />
+  <mimeType extension=".potx" type="application/vnd.openxmlformats-officedocument.presentationml.template" description="Microsoft Office - OOXML - Presentation Template" />
+  <mimeType extension=".pov" type="model/x-pov" />
+  <mimeType extension=".ppa" type="application/vnd.ms-powerpoint" />
+  <mimeType extension=".ppam" type="application/vnd.ms-powerpoint.addin.macroenabled.12" description="Microsoft PowerPoint - Add-in file" />
+  <mimeType extension=".ppd" type="application/vnd.cups-ppd" description="Adobe PostScript Printer Description File Format" />
+  <mimeType extension=".ppm" type="image/x-portable-pixmap" description="Portable Pixmap Format" />
+  <mimeType extension=".pps" type="application/vnd.ms-powerpoint" />
+  <mimeType extension=".ppsm" type="application/vnd.ms-powerpoint.slideshow.macroenabled.12" description="Microsoft PowerPoint - Macro-Enabled Slide Show File" />
+  <mimeType extension=".ppsx" type="application/vnd.openxmlformats-officedocument.presentationml.slideshow" description="Microsoft Office - OOXML - Presentation (Slideshow)" />
+  <mimeType extension=".ppt" type="application/vnd.ms-powerpoint" description="Microsoft PowerPoint" />
+  <mimeType extension=".pptm" type="application/vnd.ms-powerpoint.presentation.macroenabled.12" description="Microsoft PowerPoint - Macro-Enabled Presentation File" />
+  <mimeType extension=".pptx" type="application/vnd.openxmlformats-officedocument.presentationml.presentation" description="Microsoft Office - OOXML - Presentation" />
+  <mimeType extension=".ppz" type="application/mspowerpoint" />
+  <mimeType extension=".pqa" type="application/vnd.palm" />
+  <mimeType extension=".prc" type="application/x-mobipocket-ebook" description="Mobipocket" />
+  <mimeType extension=".pre" type="application/vnd.lotus-freelance" description="Lotus Freelance" />
+  <mimeType extension=".prf" type="application/pics-rules" description="PICSRules" />
+  <mimeType extension=".prt" type="application/pro_eng" />
+  <mimeType extension=".ps" type="application/postscript" />
+  <mimeType extension=".psb" type="application/vnd.3gpp.pic-bw-small" description="3rd Generation Partnership Project - Pic Small" />
+  <mimeType extension=".psd" type="image/vnd.adobe.photoshop" description="Photoshop Document" />
+  <mimeType extension=".psf" type="application/x-font-linux-psf" description="PSF Fonts" />
+  <mimeType extension=".pskcxml" type="application/pskc+xml" description="Portable Symmetric Key Container" />
+  <mimeType extension=".ptid" type="application/vnd.pvi.ptid1" description="Princeton Video Image" />
+  <mimeType extension=".pub" type="application/x-mspublisher" description="Microsoft Publisher" />
+  <mimeType extension=".pvb" type="application/vnd.3gpp.pic-bw-var" description="3rd Generation Partnership Project - Pic Var" />
+  <mimeType extension=".pvu" type="paleovu/x-pv" />
+  <mimeType extension=".pwn" type="application/vnd.3m.post-it-notes" description="3M Post It Notes" />
+  <mimeType extension=".pwz" type="application/vnd.ms-powerpoint" />
+  <mimeType extension=".py" type="text/x-script.phyton" />
+  <mimeType extension=".pya" type="audio/vnd.ms-playready.media.pya" description="Microsoft PlayReady Ecosystem" />
+  <mimeType extension=".pyc" type="applicaiton/x-bytecode.python" />
+  <mimeType extension=".pyv" type="video/vnd.ms-playready.media.pyv" description="Microsoft PlayReady Ecosystem Video" />
+  <mimeType extension=".qam" type="application/vnd.epson.quickanime" description="QuickAnime Player" />
+  <mimeType extension=".qbo" type="application/vnd.intu.qbo" description="Open Financial Exchange" />
+  <mimeType extension=".qcp" type="audio/vnd.qcelp" />
+  <mimeType extension=".qd3" type="x-world/x-3dmf" />
+  <mimeType extension=".qd3d" type="x-world/x-3dmf" />
+  <mimeType extension=".qfx" type="application/vnd.intu.qfx" description="Quicken" />
+  <mimeType extension=".qif" type="image/x-quicktime" />
+  <mimeType extension=".qps" type="application/vnd.publishare-delta-tree" description="PubliShare Objects" />
+  <mimeType extension=".qt" type="video/quicktime" description="Quicktime Video" />
+  <mimeType extension=".qtc" type="video/x-qtc" />
+  <mimeType extension=".qti" type="image/x-quicktime" />
+  <mimeType extension=".qtif" type="image/x-quicktime" />
+  <mimeType extension=".qwd" type="application/vnd.quark.quarkxpress" />
+  <mimeType extension=".qwt" type="application/vnd.quark.quarkxpress" />
+  <mimeType extension=".qxb" type="application/vnd.quark.quarkxpress" />
+  <mimeType extension=".qxd" type="application/vnd.quark.quarkxpress" description="QuarkXpress" />
+  <mimeType extension=".qxl" type="application/vnd.quark.quarkxpress" />
+  <mimeType extension=".qxt" type="application/vnd.quark.quarkxpress" />
+  <mimeType extension=".ra" type="audio/x-pn-realaudio" />
+  <mimeType extension=".ram" type="audio/x-pn-realaudio" description="Real Audio Sound" />
+  <mimeType extension=".rar" type="application/x-rar-compressed" description="RAR Archive" />
+  <mimeType extension=".ras" type="image/x-cmu-raster" description="CMU Image" />
+  <mimeType extension=".rast" type="image/cmu-raster" />
+  <mimeType extension=".rcprofile" type="application/vnd.ipunplugged.rcprofile" description="IP Unplugged Roaming Client" />
+  <mimeType extension=".rdf" type="application/rdf+xml" description="Resource Description Framework" />
+  <mimeType extension=".rdz" type="application/vnd.data-vision.rdz" description="RemoteDocs R-Viewer" />
+  <mimeType extension=".rep" type="application/vnd.businessobjects" description="BusinessObjects" />
+  <mimeType extension=".res" type="application/x-dtbresource+xml" description="Digital Talking Book - Resource File" />
+  <mimeType extension=".rexx" type="text/x-script.rexx" />
+  <mimeType extension=".rf" type="image/vnd.rn-realflash" />
+  <mimeType extension=".rgb" type="image/x-rgb" description="Silicon Graphics RGB Bitmap" />
+  <mimeType extension=".rif" type="application/reginfo+xml" description="IMS Networks" />
+  <mimeType extension=".rip" type="audio/vnd.rip" description="Hit'n'Mix" />
+  <mimeType extension=".rl" type="application/resource-lists+xml" description="XML Resource Lists" />
+  <mimeType extension=".rlc" type="image/vnd.fujixerox.edmics-rlc" description="EDMICS 2000" />
+  <mimeType extension=".rld" type="application/resource-lists-diff+xml" description="XML Resource Lists Diff" />
+  <mimeType extension=".rm" type="application/vnd.rn-realmedia" description="RealMedia" />
+  <mimeType extension=".rmi" type="audio/mid" />
+  <mimeType extension=".rmm" type="audio/x-pn-realaudio" />
+  <mimeType extension=".rmp" type="audio/x-pn-realaudio-plugin" description="Real Audio Sound" />
+  <mimeType extension=".rms" type="application/vnd.jcp.javame.midlet-rms" description="Mobile Information Device Profile" />
+  <mimeType extension=".rnc" type="application/relax-ng-compact-syntax" description="Relax NG Compact Syntax" />
+  <mimeType extension=".rng" type="application/ringing-tones" />
+  <mimeType extension=".rnx" type="application/vnd.rn-realplayer" />
+  <mimeType extension=".roff" type="application/x-troff" />
+  <mimeType extension=".rp" type="image/vnd.rn-realpix" />
+  <mimeType extension=".rp9" type="application/vnd.cloanto.rp9" description="RetroPlatform Player" />
+  <mimeType extension=".rpm" type="audio/x-pn-realaudio-plugin" />
+  <mimeType extension=".rpss" type="application/vnd.nokia.radio-presets" description="Nokia Radio Application - Preset" />
+  <mimeType extension=".rpst" type="application/vnd.nokia.radio-preset" description="Nokia Radio Application - Preset" />
+  <mimeType extension=".rq" type="application/sparql-query" description="SPARQL - Query" />
+  <mimeType extension=".rs" type="application/rls-services+xml" description="XML Resource Lists" />
+  <mimeType extension=".rsd" type="application/rsd+xml" description="Really Simple Discovery" />
+  <mimeType extension=".rss" type="application/rss+xml" />
+  <mimeType extension=".rss, .xml" type="application/rss+xml" description="RSS - Really Simple Syndication" />
+  <mimeType extension=".rt" type="text/richtext" />
+  <mimeType extension=".rtf" type="application/rtf" description="Rich Text Format" />
+  <mimeType extension=".rtx" type="text/richtext" description="Rich Text Format (RTF)" />
+  <mimeType extension=".rv" type="video/vnd.rn-realvideo" />
+  <mimeType extension=".s" type="text/x-asm" description="Assembler Source File" />
+  <mimeType extension=".s3m" type="audio/s3m" />
+  <mimeType extension=".saf" type="application/vnd.yamaha.smaf-audio" description="SMAF Audio" />
+  <mimeType extension=".saveme" type="application/octet-stream" />
+  <mimeType extension=".sbk" type="application/x-tbook" />
+  <mimeType extension=".sbml" type="application/sbml+xml" description="Systems Biology Markup Language" />
+  <mimeType extension=".sc" type="application/vnd.ibm.secure-container" description="IBM Electronic Media Management System - Secure Container" />
+  <mimeType extension=".scd" type="application/x-msschedule" description="Microsoft Schedule+" />
+  <mimeType extension=".scm" type="application/vnd.lotus-screencam" description="Lotus Screencam" />
+  <mimeType extension=".scq" type="application/scvp-cv-request" description="Server-Based Certificate Validation Protocol - Validation Request" />
+  <mimeType extension=".scs" type="application/scvp-cv-response" description="Server-Based Certificate Validation Protocol - Validation Response" />
+  <mimeType extension=".sct" type="text/scriptlet" />
+  <mimeType extension=".scurl" type="text/vnd.curl.scurl" description="Curl - Source Code" />
+  <mimeType extension=".sda" type="application/vnd.stardivision.draw" description="StarOffice - Draw" />
+  <mimeType extension=".sdc" type="application/vnd.stardivision.calc" description="StarOffice - Calc" />
+  <mimeType extension=".sdd" type="application/vnd.stardivision.impress" description="StarOffice - Impress" />
+  <mimeType extension=".sdkd" type="application/vnd.solent.sdkm+xml" />
+  <mimeType extension=".sdkm" type="application/vnd.solent.sdkm+xml" description="SudokuMagic" />
+  <mimeType extension=".sdml" type="text/plain" />
+  <mimeType extension=".sdp" type="application/sdp" description="Session Description Protocol" />
+  <mimeType extension=".sdr" type="application/sounder" />
+  <mimeType extension=".sdw" type="application/vnd.stardivision.writer" description="StarOffice - Writer" />
+  <mimeType extension=".sea" type="application/sea" />
+  <mimeType extension=".see" type="application/vnd.seemail" description="SeeMail" />
+  <mimeType extension=".seed" type="application/vnd.fdsn.seed" description="Digital Siesmograph Networks - SEED Datafiles" />
+  <mimeType extension=".sema" type="application/vnd.sema" description="Secured eMail" />
+  <mimeType extension=".semd" type="application/vnd.semd" description="Secured eMail" />
+  <mimeType extension=".semf" type="application/vnd.semf" description="Secured eMail" />
+  <mimeType extension=".ser" type="application/java-serialized-object" description="Java Serialized Object" />
+  <mimeType extension=".set" type="application/set" />
+  <mimeType extension=".setpay" type="application/set-payment-initiation" description="Secure Electronic Transaction - Payment" />
+  <mimeType extension=".setreg" type="application/set-registration-initiation" description="Secure Electronic Transaction - Registration" />
+  <mimeType extension=".sfd-hdstx" type="application/vnd.hydrostatix.sof-data" description="Hydrostatix Master Suite" />
+  <mimeType extension=".sfs" type="application/vnd.spotfire.sfs" description="TIBCO Spotfire" />
+  <mimeType extension=".sgl" type="application/vnd.stardivision.writer-global" description="StarOffice - Writer (Global)" />
+  <mimeType extension=".sgm" type="text/sgml" />
+  <mimeType extension=".sgml" type="text/sgml" description="Standard Generalized Markup Language (SGML)" />
+  <mimeType extension=".sh" type="application/x-sh" description="Bourne Shell Script" />
+  <mimeType extension=".shar" type="application/x-shar" description="Shell Archive" />
+  <mimeType extension=".shf" type="application/shf+xml" description="S Hexdump Format" />
+  <mimeType extension=".shtml" type="text/html" />
+  <mimeType extension=".sid" type="audio/x-psid" />
+  <mimeType extension=".sig" type="application/pgp-signature" />
+  <mimeType extension=".silo" type="model/mesh" />
+  <mimeType extension=".sis" type="application/vnd.symbian.install" description="Symbian Install Package" />
+  <mimeType extension=".sisx" type="application/vnd.symbian.install" />
+  <mimeType extension=".sit" type="application/x-stuffit" description="Stuffit Archive" />
+  <mimeType extension=".sitx" type="application/x-stuffitx" description="Stuffit Archive" />
+  <mimeType extension=".skd" type="application/vnd.koan" />
+  <mimeType extension=".skm" type="application/vnd.koan" />
+  <mimeType extension=".skp" type="application/vnd.koan" description="SSEYO Koan Play File" />
+  <mimeType extension=".skt" type="application/vnd.koan" />
+  <mimeType extension=".sl" type="application/x-seelogo" />
+  <mimeType extension=".sldm" type="application/vnd.ms-powerpoint.slide.macroenabled.12" description="Microsoft PowerPoint - Macro-Enabled Open XML Slide" />
+  <mimeType extension=".sldx" type="application/vnd.openxmlformats-officedocument.presentationml.slide" description="Microsoft Office - OOXML - Presentation (Slide)" />
+  <mimeType extension=".slt" type="application/vnd.epson.salt" description="SimpleAnimeLite Player" />
+  <mimeType extension=".sm" type="application/vnd.stepmania.stepchart" description="StepMania" />
+  <mimeType extension=".smf" type="application/vnd.stardivision.math" description="StarOffice - Math" />
+  <mimeType extension=".smi" type="application/smil+xml" description="Synchronized Multimedia Integration Language" />
+  <mimeType extension=".smil" type="application/smil+xml" />
+  <mimeType extension=".snd" type="audio/basic" />
+  <mimeType extension=".snf" type="application/x-font-snf" description="Server Normal Format" />
+  <mimeType extension=".so" type="application/octet-stream" />
+  <mimeType extension=".sol" type="application/solids" />
+  <mimeType extension=".spc" type="application/x-pkcs7-certificates" />
+  <mimeType extension=".spf" type="application/vnd.yamaha.smaf-phrase" description="SMAF Phrase" />
+  <mimeType extension=".spl" type="application/futuresplash" description="FutureSplash Animator" />
+  <mimeType extension=".spot" type="text/vnd.in3d.spot" description="In3D - 3DML" />
+  <mimeType extension=".spp" type="application/scvp-vp-response" description="Server-Based Certificate Validation Protocol - Validation Policies - Response" />
+  <mimeType extension=".spq" type="application/scvp-vp-request" description="Server-Based Certificate Validation Protocol - Validation Policies - Request" />
+  <mimeType extension=".spr" type="application/x-sprite" />
+  <mimeType extension=".sprite" type="application/x-sprite" />
+  <mimeType extension=".spx" type="audio/ogg" />
+  <mimeType extension=".src" type="application/x-wais-source" description="WAIS Source" />
+  <mimeType extension=".sru" type="application/sru+xml" description="Search/Retrieve via URL Response Format" />
+  <mimeType extension=".srx" type="application/sparql-results+xml" description="SPARQL - Results" />
+  <mimeType extension=".sse" type="application/vnd.kodak-descriptor" description="Kodak Storyshare" />
+  <mimeType extension=".ssf" type="application/vnd.epson.ssf" description="QUASS Stream Player" />
+  <mimeType extension=".ssi" type="text/x-server-parsed-html" />
+  <mimeType extension=".ssm" type="application/streamingmedia" />
+  <mimeType extension=".ssml" type="application/ssml+xml" description="Speech Synthesis Markup Language" />
+  <mimeType extension=".sst" type="application/vndms-pkicertstore" />
+  <mimeType extension=".st" type="application/vnd.sailingtracker.track" description="SailingTracker" />
+  <mimeType extension=".stc" type="application/vnd.sun.xml.calc.template" description="OpenOffice - Calc Template (Spreadsheet)" />
+  <mimeType extension=".std" type="application/vnd.sun.xml.draw.template" description="OpenOffice - Draw Template (Graphics)" />
+  <mimeType extension=".step" type="application/step" />
+  <mimeType extension=".stf" type="application/vnd.wt.stf" description="Worldtalk" />
+  <mimeType extension=".sti" type="application/vnd.sun.xml.impress.template" description="OpenOffice - Impress Template (Presentation)" />
+  <mimeType extension=".stk" type="application/hyperstudio" description="Hyperstudio" />
+  <mimeType extension=".stl" type="application/vndms-pkistl" description="Microsoft Trust UI Provider - Certificate Trust Link" />
+  <mimeType extension=".stm" type="text/html" />
+  <mimeType extension=".stp" type="application/step" />
+  <mimeType extension=".str" type="application/vnd.pg.format" description="Proprietary P&amp;G Standard Reporting System" />
+  <mimeType extension=".stw" type="application/vnd.sun.xml.writer.template" description="OpenOffice - Writer Template (Text - HTML)" />
+  <mimeType extension=".sub" type="image/vnd.dvb.subtitle" description="Close Captioning - Subtitle" />
+  <mimeType extension=".sus" type="application/vnd.sus-calendar" description="ScheduleUs" />
+  <mimeType extension=".susp" type="application/vnd.sus-calendar" />
+  <mimeType extension=".sv4cpio" type="application/x-sv4cpio" description="System V Release 4 CPIO Archive" />
+  <mimeType extension=".sv4crc" type="application/x-sv4crc" description="System V Release 4 CPIO Checksum Data" />
+  <mimeType extension=".svc" type="application/vnd.dvb.service" description="Digital Video Broadcasting" />
+  <mimeType extension=".svd" type="application/vnd.svd" description="SourceView Document" />
+  <mimeType extension=".svf" type="image/vnd.dwg" />
+  <mimeType extension=".svg" type="image/svg+xml" description="Scalable Vector Graphics (SVG)" />
+  <mimeType extension=".svgz" type="image/svg+xml" />
+  <mimeType extension=".svr" type="application/x-world" />
+  <mimeType extension=".swa" type="application/x-director" />
+  <mimeType extension=".swf" type="application/x-shockwave-flash" description="Adobe Flash" />
+  <mimeType extension=".swi" type="application/vnd.aristanetworks.swi" description="Arista Networks Software Image" />
+  <mimeType extension=".sxc" type="application/vnd.sun.xml.calc" description="OpenOffice - Calc (Spreadsheet)" />
+  <mimeType extension=".sxd" type="application/vnd.sun.xml.draw" description="OpenOffice - Draw (Graphics)" />
+  <mimeType extension=".sxg" type="application/vnd.sun.xml.writer.global" description="OpenOffice - Writer (Text - HTML)" />
+  <mimeType extension=".sxi" type="application/vnd.sun.xml.impress" description="OpenOffice - Impress (Presentation)" />
+  <mimeType extension=".sxm" type="application/vnd.sun.xml.math" description="OpenOffice - Math (Formula)" />
+  <mimeType extension=".sxw" type="application/vnd.sun.xml.writer" description="OpenOffice - Writer (Text - HTML)" />
+  <mimeType extension=".t" type="application/x-troff" description="troff" />
+  <mimeType extension=".talk" type="text/x-speech" />
+  <mimeType extension=".tao" type="application/vnd.tao.intent-module-archive" description="Tao Intent" />
+  <mimeType extension=".tar" type="application/x-tar" description="Tar File (Tape Archive)" />
+  <mimeType extension=".tbk" type="application/toolbook" />
+  <mimeType extension=".tcap" type="application/vnd.3gpp2.tcap" description="3rd Generation Partnership Project - Transaction Capabilities Application Part" />
+  <mimeType extension=".tcl" type="application/x-tcl" description="Tcl Script" />
+  <mimeType extension=".tcsh" type="text/x-script.tcsh" />
+  <mimeType extension=".teacher" type="application/vnd.smart.teacher" description="SMART Technologies Apps" />
+  <mimeType extension=".tei" type="application/tei+xml" description="Text Encoding and Interchange" />
+  <mimeType extension=".teicorpus" type="application/tei+xml" />
+  <mimeType extension=".tex" type="application/x-tex" description="TeX" />
+  <mimeType extension=".texi" type="application/x-texinfo" />
+  <mimeType extension=".texinfo" type="application/x-texinfo" description="GNU Texinfo Document" />
+  <mimeType extension=".text" type="text/plain" />
+  <mimeType extension=".tfi" type="application/thraud+xml" description="Sharing Transaction Fraud Data" />
+  <mimeType extension=".tfm" type="application/x-tex-tfm" description="TeX Font Metric" />
+  <mimeType extension=".tgz" type="application/x-compressed" />
+  <mimeType extension=".thmx" type="application/vnd.ms-officetheme" description="Microsoft Office System Release Theme" />
+  <mimeType extension=".tif" type="image/tiff" />
+  <mimeType extension=".tiff" type="image/tiff" description="Tagged Image File Format" />
+  <mimeType extension=".tmo" type="application/vnd.tmobile-livetv" description="MobileTV" />
+  <mimeType extension=".torrent" type="application/x-bittorrent" description="BitTorrent" />
+  <mimeType extension=".tpl" type="application/vnd.groove-tool-template" description="Groove - Tool Template" />
+  <mimeType extension=".tpt" type="application/vnd.trid.tpt" description="TRI Systems Config" />
+  <mimeType extension=".tr" type="application/x-troff" />
+  <mimeType extension=".tra" type="application/vnd.trueapp" description="True BASIC" />
+  <mimeType extension=".trm" type="application/x-msterminal" description="Microsoft Windows Terminal Services" />
+  <mimeType extension=".tsd" type="application/timestamped-data" description="Time Stamped Data Envelope" />
+  <mimeType extension=".tsi" type="audio/tsp-audio" />
+  <mimeType extension=".tsp" type="application/dsptype" />
+  <mimeType extension=".tsv" type="text/tab-separated-values" description="Tab Seperated Values" />
+  <mimeType extension=".ttc" type="application/x-font-ttf" />
+  <mimeType extension=".ttf" type="application/x-font-ttf" description="TrueType Font" />
+  <mimeType extension=".ttl" type="text/turtle" description="Turtle (Terse RDF Triple Language)" />
+  <mimeType extension=".turbot" type="image/florian" />
+  <mimeType extension=".twd" type="application/vnd.simtech-mindmapper" description="SimTech MindMapper" />
+  <mimeType extension=".twds" type="application/vnd.simtech-mindmapper" />
+  <mimeType extension=".txd" type="application/vnd.genomatix.tuxedo" description="Genomatix Tuxedo Framework" />
+  <mimeType extension=".txf" type="application/vnd.mobius.txf" description="Mobius Management Systems - Topic Index File" />
+  <mimeType extension=".txt" type="text/plain" description="Text File" />
+  <mimeType extension=".u32" type="application/x-authorware-bin" />
+  <mimeType extension=".udeb" type="application/x-debian-package" />
+  <mimeType extension=".ufd" type="application/vnd.ufdl" description="Universal Forms Description Language" />
+  <mimeType extension=".ufdl" type="application/vnd.ufdl" />
+  <mimeType extension=".uil" type="text/x-uil" />
+  <mimeType extension=".uls" type="text/iuls" />
+  <mimeType extension=".umj" type="application/vnd.umajin" description="UMAJIN" />
+  <mimeType extension=".uni" type="text/uri-list" />
+  <mimeType extension=".unis" type="text/uri-list" />
+  <mimeType extension=".unityweb" type="application/vnd.unity" description="Unity 3d" />
+  <mimeType extension=".unv" type="application/i-deas" />
+  <mimeType extension=".uoml" type="application/vnd.uoml+xml" description="Unique Object Markup Language" />
+  <mimeType extension=".uri" type="text/uri-list" description="URI Resolution Services" />
+  <mimeType extension=".uris" type="text/uri-list" />
+  <mimeType extension=".urls" type="text/uri-list" />
+  <mimeType extension=".ustar" type="application/x-ustar" description="Ustar (Uniform Standard Tape Archive)" />
+  <mimeType extension=".utz" type="application/vnd.uiq.theme" description="User Interface Quartz - Theme (Symbian)" />
+  <mimeType extension=".uu" type="text/x-uuencode" description="UUEncode" />
+  <mimeType extension=".uue" type="text/x-uuencode" />
+  <mimeType extension=".uva" type="audio/vnd.dece.audio" description="DECE Audio" />
+  <mimeType extension=".uvd" type="application/vnd.dece.data" />
+  <mimeType extension=".uvf" type="application/vnd.dece.data" />
+  <mimeType extension=".uvg" type="image/vnd.dece.graphic" />
+  <mimeType extension=".uvh" type="video/vnd.dece.hd" description="DECE High Definition Video" />
+  <mimeType extension=".uvi" type="image/vnd.dece.graphic" description="DECE Graphic" />
+  <mimeType extension=".uvm" type="video/vnd.dece.mobile" description="DECE Mobile Video" />
+  <mimeType extension=".uvp" type="video/vnd.dece.pd" description="DECE PD Video" />
+  <mimeType extension=".uvs" type="video/vnd.dece.sd" description="DECE SD Video" />
+  <mimeType extension=".uvt" type="application/vnd.dece.ttml+xml" />
+  <mimeType extension=".uvu" type="video/vnd.uvvu.mp4" description="DECE MP4" />
+  <mimeType extension=".uvv" type="video/vnd.dece.video" description="DECE Video" />
+  <mimeType extension=".uvva" type="audio/vnd.dece.audio" />
+  <mimeType extension=".uvvd" type="application/vnd.dece.data" />
+  <mimeType extension=".uvvf" type="application/vnd.dece.data" />
+  <mimeType extension=".uvvg" type="image/vnd.dece.graphic" />
+  <mimeType extension=".uvvh" type="video/vnd.dece.hd" />
+  <mimeType extension=".uvvi" type="image/vnd.dece.graphic" />
+  <mimeType extension=".uvvm" type="video/vnd.dece.mobile" />
+  <mimeType extension=".uvvp" type="video/vnd.dece.pd" />
+  <mimeType extension=".uvvs" type="video/vnd.dece.sd" />
+  <mimeType extension=".uvvt" type="application/vnd.dece.ttml+xml" />
+  <mimeType extension=".uvvu" type="video/vnd.uvvu.mp4" />
+  <mimeType extension=".uvvv" type="video/vnd.dece.video" />
+  <mimeType extension=".uvvx" type="application/vnd.dece.unspecified" />
+  <mimeType extension=".uvx" type="application/vnd.dece.unspecified" />
+  <mimeType extension=".vcd" type="application/x-cdlink" description="Video CD" />
+  <mimeType extension=".vcf" type="text/x-vcard" description="vCard" />
+  <mimeType extension=".vcg" type="application/vnd.groove-vcard" description="Groove - Vcard" />
+  <mimeType extension=".vcs" type="text/x-vcalendar" description="vCalendar" />
+  <mimeType extension=".vcx" type="application/vnd.vcx" description="VirtualCatalog" />
+  <mimeType extension=".vda" type="application/vda" />
+  <mimeType extension=".vdo" type="video/vdo" />
+  <mimeType extension=".vew" type="application/groupwise" />
+  <mimeType extension=".vis" type="application/vnd.visionary" description="Visionary" />
+  <mimeType extension=".viv" type="video/vnd.vivo" description="Vivo" />
+  <mimeType extension=".vivo" type="video/vivo" />
+  <mimeType extension=".vmd" type="application/vocaltec-media-desc" />
+  <mimeType extension=".vmf" type="application/vocaltec-media-file" />
+  <mimeType extension=".voc" type="audio/voc" />
+  <mimeType extension=".vor" type="application/vnd.stardivision.writer" />
+  <mimeType extension=".vos" type="video/vosaic" />
+  <mimeType extension=".vox" type="application/x-authorware-bin" />
+  <mimeType extension=".vqe" type="audio/x-twinvq-plugin" />
+  <mimeType extension=".vqf" type="audio/x-twinvq" />
+  <mimeType extension=".vql" type="audio/x-twinvq-plugin" />
+  <mimeType extension=".vrml" type="model/vrml" />
+  <mimeType extension=".vrt" type="x-world/x-vrt" />
+  <mimeType extension=".vsd" type="application/vnd.visio" description="Microsoft Visio" />
+  <mimeType extension=".vsf" type="application/vnd.vsf" description="Viewport+" />
+  <mimeType extension=".vss" type="application/vnd.visio" />
+  <mimeType extension=".vst" type="application/vnd.visio" />
+  <mimeType extension=".vsw" type="application/vnd.visio" />
+  <mimeType extension=".vtu" type="model/vnd.vtu" description="Virtue VTU" />
+  <mimeType extension=".vxml" type="application/voicexml+xml" description="VoiceXML" />
+  <mimeType extension=".w3d" type="application/x-director" />
+  <mimeType extension=".w60" type="application/wordperfect6.0" />
+  <mimeType extension=".w61" type="application/wordperfect6.1" />
+  <mimeType extension=".w6w" type="application/msword" />
+  <mimeType extension=".wad" type="application/x-doom" description="Doom Video Game" />
+  <mimeType extension=".wav" type="audio/wav" description="Waveform Audio File Format (WAV)" />
+  <mimeType extension=".wax" type="audio/x-ms-wax" description="Microsoft Windows Media Audio Redirector" />
+  <mimeType extension=".wb1" type="application/x-qpro" />
+  <mimeType extension=".wbmp" type="image/vnd.wap.wbmp" description="WAP Bitamp (WBMP)" />
+  <mimeType extension=".wbs" type="application/vnd.criticaltools.wbs+xml" description="Critical Tools - PERT Chart EXPERT" />
+  <mimeType extension=".wbxml" type="application/vnd.wap.wbxml" description="WAP Binary XML (WBXML)" />
+  <mimeType extension=".wcm" type="application/vnd.ms-works" />
+  <mimeType extension=".wdb" type="application/vnd.ms-works" />
+  <mimeType extension=".web" type="application/vnd.xara" />
+  <mimeType extension=".weba" type="audio/webm" description="Open Web Media Project - Audio" />
+  <mimeType extension=".webm" type="video/webm" description="Open Web Media Project - Video" />
+  <mimeType extension=".webp" type="image/webp" description="WebP Image" />
+  <mimeType extension=".wg" type="application/vnd.pmi.widget" description="Qualcomm's Plaza Mobile Internet" />
+  <mimeType extension=".wgt" type="application/widget" description="Widget Packaging and XML Configuration" />
+  <mimeType extension=".wiz" type="application/msword" />
+  <mimeType extension=".wk1" type="application/x-123" />
+  <mimeType extension=".wks" type="application/vnd.ms-works" />
+  <mimeType extension=".wm" type="video/x-ms-wm" description="Microsoft Windows Media" />
+  <mimeType extension=".wma" type="audio/x-ms-wma" description="Microsoft Windows Media Audio" />
+  <mimeType extension=".wmd" type="application/x-ms-wmd" description="Microsoft Windows Media Player Download Package" />
+  <mimeType extension=".wmf" type="application/x-msmetafile" description="Microsoft Windows Metafile" />
+  <mimeType extension=".wml" type="text/vnd.wap.wml" description="Wireless Markup Language (WML)" />
+  <mimeType extension=".wmlc" type="application/vnd.wap.wmlc" description="Compiled Wireless Markup Language (WMLC)" />
+  <mimeType extension=".wmls" type="text/vnd.wap.wmlscript" description="Wireless Markup Language Script (WMLScript)" />
+  <mimeType extension=".wmlsc" type="application/vnd.wap.wmlscriptc" description="WMLScript" />
+  <mimeType extension=".wmv" type="video/x-ms-wmv" description="Microsoft Windows Media Video" />
+  <mimeType extension=".wmx" type="video/x-ms-wmx" description="Microsoft Windows Media Audio/Video Playlist" />
+  <mimeType extension=".wmz" type="application/x-ms-wmz" description="Microsoft Windows Media Player Skin Package" />
+  <mimeType extension=".woff" type="application/font-woff" description="Web Open Font Format" />
+  <mimeType extension=".word" type="application/msword" />
+  <mimeType extension=".wp" type="application/wordperfect" />
+  <mimeType extension=".wp5" type="application/wordperfect" />
+  <mimeType extension=".wp6" type="application/wordperfect" />
+  <mimeType extension=".wpd" type="application/vnd.wordperfect" description="Wordperfect" />
+  <mimeType extension=".wpl" type="application/vnd.ms-wpl" description="Microsoft Windows Media Player Playlist" />
+  <mimeType extension=".wps" type="application/vnd.ms-works" description="Microsoft Works" />
+  <mimeType extension=".wq1" type="application/x-lotus" />
+  <mimeType extension=".wqd" type="application/vnd.wqd" description="SundaHus WQ" />
+  <mimeType extension=".wri" type="application/x-mswrite" description="Microsoft Wordpad" />
+  <mimeType extension=".wrl" type="x-world/x-vrml" description="Virtual Reality Modeling Language" />
+  <mimeType extension=".wrz" type="x-world/x-vrml" />
+  <mimeType extension=".wsc" type="text/scriplet" />
+  <mimeType extension=".wsdl" type="text/xml" description="WSDL - Web Services Description Language" />
+  <mimeType extension=".wspolicy" type="application/wspolicy+xml" description="Web Services Policy" />
+  <mimeType extension=".wsrc" type="application/x-wais-source" />
+  <mimeType extension=".wtb" type="application/vnd.webturbo" description="WebTurbo" />
+  <mimeType extension=".wtk" type="application/x-wintalk" />
+  <mimeType extension=".wvx" type="video/x-ms-wvx" description="Microsoft Windows Media Video Playlist" />
+  <mimeType extension=".x32" type="application/x-authorware-bin" />
+  <mimeType extension=".x3d" type="application/vnd.hzn-3d-crossword" />
+  <mimeType extension=".xaf" type="x-world/x-vrml" />
+  <mimeType extension=".xap" type="application/x-silverlight-app" description="Microsoft Silverlight" />
+  <mimeType extension=".xar" type="application/vnd.xara" description="CorelXARA" />
+  <mimeType extension=".xbap" type="application/x-ms-xbap" description="Microsoft XAML Browser Application" />
+  <mimeType extension=".xbd" type="application/vnd.fujixerox.docuworks.binder" description="Fujitsu - Xerox DocuWorks Binder" />
+  <mimeType extension=".xbm" type="image/x-xbitmap" description="X BitMap" />
+  <mimeType extension=".xdf" type="application/xcap-diff+xml" description="XML Configuration Access Protocol - XCAP Diff" />
+  <mimeType extension=".xdm" type="application/vnd.syncml.dm+xml" description="SyncML - Device Management" />
+  <mimeType extension=".xdp" type="application/vnd.adobe.xdp+xml" description="Adobe XML Data Package" />
+  <mimeType extension=".xdr" type="video/x-amt-demorun" />
+  <mimeType extension=".xdssc" type="application/dssc+xml" description="Data Structure for the Security Suitability of Cryptographic Algorithms" />
+  <mimeType extension=".xdw" type="application/vnd.fujixerox.docuworks" description="Fujitsu - Xerox DocuWorks" />
+  <mimeType extension=".xenc" type="application/xenc+xml" description="XML Encryption Syntax and Processing" />
+  <mimeType extension=".xer" type="application/patch-ops-error+xml" description="XML Patch Framework" />
+  <mimeType extension=".xfdf" type="application/vnd.adobe.xfdf" description="Adobe XML Forms Data Format" />
+  <mimeType extension=".xfdl" type="application/vnd.xfdl" description="Extensible Forms Description Language" />
+  <mimeType extension=".xgz" type="xgl/drawing" />
+  <mimeType extension=".xht" type="application/xhtml+xml" />
+  <mimeType extension=".xhtml" type="application/xhtml+xml" description="XHTML - The Extensible HyperText Markup Language" />
+  <mimeType extension=".xhvml" type="application/xv+xml" />
+  <mimeType extension=".xif" type="image/vnd.xiff" description="eXtended Image File Format (XIFF)" />
+  <mimeType extension=".xl" type="application/excel" />
+  <mimeType extension=".xla" type="application/vnd.ms-excel" />
+  <mimeType extension=".xlam" type="application/vnd.ms-excel.addin.macroenabled.12" description="Microsoft Excel - Add-In File" />
+  <mimeType extension=".xlb" type="application/excel" />
+  <mimeType extension=".xlc" type="application/vnd.ms-excel" />
+  <mimeType extension=".xld" type="application/excel" />
+  <mimeType extension=".xlk" type="application/excel" />
+  <mimeType extension=".xll" type="application/excel" />
+  <mimeType extension=".xlm" type="application/vnd.ms-excel" />
+  <mimeType extension=".xls" type="application/vnd.ms-excel" description="Microsoft Excel" />
+  <mimeType extension=".xlsb" type="application/vnd.ms-excel.sheet.binary.macroenabled.12" description="Microsoft Excel - Binary Workbook" />
+  <mimeType extension=".xlsm" type="application/vnd.ms-excel.sheet.macroenabled.12" description="Microsoft Excel - Macro-Enabled Workbook" />
+  <mimeType extension=".xlsx" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" description="Microsoft Office - OOXML - Spreadsheet" />
+  <mimeType extension=".xlt" type="application/vnd.ms-excel" />
+  <mimeType extension=".xltm" type="application/vnd.ms-excel.template.macroenabled.12" description="Microsoft Excel - Macro-Enabled Template File" />
+  <mimeType extension=".xltx" type="application/vnd.openxmlformats-officedocument.spreadsheetml.template" description="Microsoft Office - OOXML - Spreadsheet Teplate" />
+  <mimeType extension=".xlv" type="application/excel" />
+  <mimeType extension=".xlw" type="application/vnd.ms-excel" />
+  <mimeType extension=".xm" type="audio/xm" />
+  <mimeType extension=".xml" type="text/xml" description="XML - Extensible Markup Language" />
+  <mimeType extension=".xmz" type="xgl/movie" />
+  <mimeType extension=".xo" type="application/vnd.olpc-sugar" description="Sugar Linux Application Bundle" />
+  <mimeType extension=".xof" type="x-world/x-vrml" />
+  <mimeType extension=".xop" type="application/xop+xml" description="XML-Binary Optimized Packaging" />
+  <mimeType extension=".xpi" type="application/x-xpinstall" description="XPInstall - Mozilla" />
+  <mimeType extension=".xpix" type="application/x-vnd.ls-xpix" />
+  <mimeType extension=".xpm" type="image/x-xpixmap" description="X PixMap" />
+  <mimeType extension=".x-png" type="image/png" />
+  <mimeType extension=".xpr" type="application/vnd.is-xpr" description="Express by Infoseek" />
+  <mimeType extension=".xps" type="application/vnd.ms-xpsdocument" description="Microsoft XML Paper Specification" />
+  <mimeType extension=".xpw" type="application/vnd.intercon.formnet" description="Intercon FormNet" />
+  <mimeType extension=".xpx" type="application/vnd.intercon.formnet" />
+  <mimeType extension=".xsd" type="text/xml" />
+  <mimeType extension=".xsl" type="text/xml" />
+  <mimeType extension=".xslt" type="application/xslt+xml" description="XML Transformations" />
+  <mimeType extension=".xsm" type="application/vnd.syncml+xml" description="SyncML" />
+  <mimeType extension=".xspf" type="application/xspf+xml" description="XSPF - XML Shareable Playlist Format" />
+  <mimeType extension=".xsr" type="video/x-amt-showrun" />
+  <mimeType extension=".xul" type="application/vnd.mozilla.xul+xml" description="XUL - XML User Interface Language" />
+  <mimeType extension=".xvm" type="application/xv+xml" />
+  <mimeType extension=".xvml" type="application/xv+xml" />
+  <mimeType extension=".xwd" type="image/x-xwindowdump" description="X Window Dump" />
+  <mimeType extension=".xyz" type="chemical/x-xyz" description="XYZ File Format" />
+  <mimeType extension=".yang" type="application/yang" description="YANG Data Modeling Language" />
+  <mimeType extension=".yin" type="application/yin+xml" description="YIN (YANG - XML)" />
+  <mimeType extension=".z" type="application/x-compress" />
+  <mimeType extension=".zaz" type="application/vnd.zzazz.deck+xml" description="Zzazz Deck" />
+  <mimeType extension=".zip" type="application/x-zip-compressed" description="Zip Archive" />
+  <mimeType extension=".zir" type="application/vnd.zul" description="Z.U.L. Geometry" />
+  <mimeType extension=".zirz" type="application/vnd.zul" />
+  <mimeType extension=".zmm" type="application/vnd.handheld-entertainment+xml" description="ZVUE Media Manager" />
+  <mimeType extension=".zoo" type="application/octet-stream" />
+  <mimeType extension=".zsh" type="text/x-script.zsh" />
+</mimeTypes>
